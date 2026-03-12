@@ -5,15 +5,15 @@ from playwright.async_api import async_playwright
 from PIL import Image
 
 # --- CONFIGURATION ---
-CATEGORY = "layering"
+CATEGORY = "visibility"
 NUM_BATCHES = 1
 # LAYERING
-COMPONENT_NAMES = [
-    "StaticModal", "PermanentNotification", "ImageBadgeOverlay", "MultiLevelMenu", "StickyHeaderMock",
-    "TooltipDisplay", "AvatarOverlap", "VideoPlayerUI", "CookieNoticeBox", "PricingCardHighlight",
-    "FloatingActionDisplay", "ContextList", "StepProgressStack", "LockedContentOverlay", "ChatPreviewWindow",
-    "SearchAutocompleteBox", "CardBadgeStack", "HeroSectionLayer", "BreadcrumbOverlay", "SidebarNavigation"
-]
+# COMPONENT_NAMES = [
+#     "CenterDialogOverlay", "PermanentNotification", "ImageBadgeOverlay", "MultiLevelMenu", "StickyHeaderMock",
+#     "TooltipDisplay", "AvatarOverlap", "VideoPlayerUI", "FloatingLegalBanner", "PricingCardHighlight",
+#     "FloatingActionDisplay", "ContextList", "StepProgressStack", "LockedContentOverlay", "ChatPreviewWindow",
+#     "SearchAutocompleteBox", "CardBadgeStack", "HeroSectionLayer", "BreadcrumbOverlay", "OverlaySidebar"
+# ]
 # LAYOUT
 # COMPONENT_NAMES = [
 #     "FeatureGridFour", "ServicePricingTable", "TeamMemberGallery", "HorizontalMetricBar", "MultiStepProcess",
@@ -36,12 +36,12 @@ COMPONENT_NAMES = [
 #     "Notification", "ReceiptCard", "CtaSectionGridGradientCallToAction", "SmallCtaBanner", "SpecialFeaturesSection"
 # ]
 # VISIBILITY
-# COMPONENT_NAMES = [
-#     "ExpandableAccordion", "AuthenticatedUserBadge", "PasswordStrengthMeter", "MobileSlideOver", "SkeletonLoaderCard",
-#     "DisabledPrimaryButton", "CartNotificationDot", "CookieBannerOverlay", "LanguageSwitcher", "PriceComparisonTable",
-#     "StatusTimeline", "FileUploaderDropzone", "ModernTabGroup", "HelpCenterCategories", "EmailDraftTag",
-#     "ImageCaptionOverlay", "InputErrorMessage", "StatusIndicatorPanel", "FeatureComparisonCard", "NotificationBanner"
-# ]
+COMPONENT_NAMES = [
+    "ExpandableAccordion", "AuthenticatedUserBadge", "PasswordStrengthMeter", "MobileSlideOver", "SkeletonLoaderCard",
+    "DisabledPrimaryButton", "CartNotificationDot", "CookieBannerOverlay", "LanguageSwitcher", "PriceComparisonTable",
+    "StatusTimeline", "FileUploaderDropzone", "ModernTabGroup", "HelpCenterCategories", "EmailDraftTag",
+    "ImageCaptionOverlay", "InputErrorMessage", "StatusIndicatorPanel", "FeatureComparisonCard", "NotificationBanner"
+]
 
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -75,8 +75,8 @@ async def capture_batches():
             for comp in COMPONENT_NAMES:
                 # 1. Define ID and Path first for the resume check
                 current_id = f"{CATEGORY}_{batch_id}_{comp}"
-                # img_name = f"Mut_{batch_id}_{comp}.png"
-                img_name = f"{comp}.png"
+                img_name = f"Mut_{batch_id}_{comp}.png"
+                # img_name = f"{comp}.png"
                 final_path = os.path.join(IMG_OUT_DIR, img_name)
 
                 # 2. THE RESUME CHECK: Skip if ID is in manifest AND file exists

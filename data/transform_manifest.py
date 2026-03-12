@@ -3,7 +3,7 @@ import os
 
 
 def transform_manifest():
-    input_file = 'typography_v1.json'
+    input_file = 'manifests/typography_v1.json'
     output_file = 'typography_manifest.json'
 
     # 1. Check if the source file exists
