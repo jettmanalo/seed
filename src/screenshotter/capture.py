@@ -5,15 +5,17 @@ from playwright.async_api import async_playwright
 from PIL import Image
 
 # --- CONFIGURATION ---
-CATEGORY = "visibility"
+CATEGORY = "layering"
 NUM_BATCHES = 50
 # LAYERING
-# COMPONENT_NAMES = [
-#     "CenterDialogOverlay", "PermanentNotification", "ImageBadgeOverlay", "MultiLevelMenu", "StickyHeaderMock",
-#     "TooltipDisplay", "AvatarOverlap", "VideoPlayerUI", "FloatingLegalBanner", "PricingCardHighlight",
-#     "FloatingActionDisplay", "ContextList", "StepProgressStack", "LockedContentOverlay", "ChatPreviewWindow",
-#     "SearchAutocompleteBox", "CardBadgeStack", "HeroSectionLayer", "BreadcrumbOverlay", "OverlaySidebar"
-# ]
+COMPONENT_NAMES = [
+    "DashboardSidebarOverlay", "StaticModalScenario", "NavBarDropdownOpen", "NotificationStackPanel",
+    "PremiumFeatureLockout",
+    "CardBadgeStack", "StickyHeaderMockTable", "ImageCaptionOverlayPanel", "ContextualMenuOpen", "AvatarGroupOverlap",
+    "FloatingHelpCenter", "MultiLayeredBreadcrumb", "SidebarSubmenuOpen", "CommandPaletteOverlay",
+    "ShoppingBagSlideOut",
+    "VideoControlsOverlay", "AnnotatedGraph", "UserStatusCardStack", "LockedFileOverlay", "CookieConsentedPopup"
+]
 # LAYOUT
 # COMPONENT_NAMES = [
 #     "FeatureGridFour", "ServicePricingTable", "TeamMemberGallery", "HorizontalMetricBar", "MultiStepProcess",
@@ -36,12 +38,12 @@ NUM_BATCHES = 50
 #     "Notification", "ReceiptCard", "CtaSectionGridGradientCallToAction", "SmallCtaBanner", "SpecialFeaturesSection"
 # ]
 # VISIBILITY
-COMPONENT_NAMES = [
-    "ExpandableAccordion", "AuthenticatedUserBadge", "PasswordStrengthMeter", "DesktopSidebarOverlay", "LanguageSwitcher",
-    "StatusIndicatorPanel", "FeatureComparisonCard", "NotificationBanner", "PriceComparisonTable", "StatusTimeline",
-    "FileUploaderDropzone", "ModernTabGroup", "SearchOverlay", "HelpCenterCategories", "FloatingActionButton",
-    "EmailDraftTag", "ImageCaptionOverlay", "InputErrorMessage", "ActivityFeedItem", "StatCardDisplay"
-]
+# COMPONENT_NAMES = [
+#     "ExpandableAccordion", "AuthenticatedUserBadge", "PasswordStrengthMeter", "DesktopSidebarOverlay", "LanguageSwitcher",
+#     "StatusIndicatorPanel", "FeatureComparisonCard", "NotificationBanner", "PriceComparisonTable", "StatusTimeline",
+#     "FileUploaderDropzone", "ModernTabGroup", "SearchOverlay", "HelpCenterCategories", "FloatingActionButton",
+#     "EmailDraftTag", "ImageCaptionOverlay", "InputErrorMessage", "ActivityFeedItem", "StatCardDisplay"
+# ]
 
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
