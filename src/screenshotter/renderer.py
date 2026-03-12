@@ -60,9 +60,9 @@ def wrap_in_native_stage(jsx_content):
 
 @app.get("/render/{category}/{batch_id}/{component_name}")
 async def render_component(category: str, batch_id: str, component_name: str):
-    file_path = os.path.join(BASE_DIR, "data", "02_mutated_code", category, f"Layout_Batch_{batch_id}.jsx")
+    # file_path = os.path.join(BASE_DIR, "data", "02_mutated_code", category, f"Layout_Batch_{batch_id}.jsx")
     # Render raw seeds
-    # file_path = os.path.join(BASE_DIR, "data", "01_raw_seeds", f"{category}.jsx")
+    file_path = os.path.join(BASE_DIR, "data", "01_raw_seeds", f"{category}.jsx")
 
     if not os.path.exists(file_path):
         print(f"❌ File not found: {file_path}")

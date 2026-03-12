@@ -5,22 +5,22 @@ from playwright.async_api import async_playwright
 from PIL import Image
 
 # --- CONFIGURATION ---
-CATEGORY = "layout"
-NUM_BATCHES = 50
+CATEGORY = "layering"
+NUM_BATCHES = 1
 # LAYERING
-# COMPONENT_NAMES = [
-#     "MainModal", "GlobalNavbar", "UserMenuDropdown", "FloatingHelpButton", "TooltipBottom",
-#     "NotificationToast", "ImageHeroWithBadge", "DashboardSidebar", "VideoPlayerControls", "PricingToggleOverlay",
-#     "MobileBottomNav", "SearchAutocomplete", "CookieConsentBanner", "RightClickMenu", "ProfileAvatarPile",
-#     "StepIndicator", "FullScreenLoader", "ProductCardHover", "ChatWindow", "MegaMenu",
-# ]
-# LAYOUT
 COMPONENT_NAMES = [
-    "FeatureGridFour", "ServicePricingTable", "TeamMemberGallery", "HorizontalMetricBar", "MultiStepProcess",
-    "ContactFormTwoCol", "ProductFilterSidebar", "DashboardStatCards", "TestimonialMasonry", "EcommerceFilters",
-    "UserBioHeader", "StatHeaderGroup", "FooterLinkDirectory", "SocialFeedItem", "CompactSchedule",
-    "BreadcrumbTrail", "EmptyStateHero", "AvatarGroup", "SettingsToggleList", "NotificationCenter",
+    "StaticModal", "PermanentNotification", "ImageBadgeOverlay", "MultiLevelMenu", "StickyHeaderMock",
+    "TooltipDisplay", "AvatarOverlap", "VideoPlayerUI", "CookieNoticeBox", "PricingCardHighlight",
+    "FloatingActionDisplay", "ContextList", "StepProgressStack", "LockedContentOverlay", "ChatPreviewWindow",
+    "SearchAutocompleteBox", "CardBadgeStack", "HeroSectionLayer", "BreadcrumbOverlay", "SidebarNavigation"
 ]
+# LAYOUT
+# COMPONENT_NAMES = [
+#     "FeatureGridFour", "ServicePricingTable", "TeamMemberGallery", "HorizontalMetricBar", "MultiStepProcess",
+#     "ContactFormTwoCol", "ProductFilterSidebar", "DashboardStatCards", "TestimonialMasonry", "EcommerceFilters",
+#     "UserBioHeader", "StatHeaderGroup", "FooterLinkDirectory", "SocialFeedItem", "CompactSchedule",
+#     "BreadcrumbTrail", "EmptyStateHero", "AvatarGroup", "SettingsToggleList", "NotificationCenter",
+# ]
 # SPACING
 # COMPONENT_NAMES = [
 #     "SuccessAlertLightFill", "Notification", "HiringBadge", "Breadcrumb", "DownloadButton1",
@@ -45,9 +45,9 @@ COMPONENT_NAMES = [
 
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-# IMG_OUT_DIR = os.path.join(BASE_DIR, "data", "01_raw_seeds", CATEGORY)
-IMG_OUT_DIR = os.path.join(BASE_DIR, "data", "03_screenshots", CATEGORY)
-MANIFEST_PATH = os.path.join(BASE_DIR, "data", f"{CATEGORY}_v1.json")
+IMG_OUT_DIR = os.path.join(BASE_DIR, "data", "01_raw_seeds", CATEGORY)
+# IMG_OUT_DIR = os.path.join(BASE_DIR, "data", "03_screenshots", CATEGORY)
+# MANIFEST_PATH = os.path.join(BASE_DIR, "data", f"{CATEGORY}_v1.json")
 os.makedirs(IMG_OUT_DIR, exist_ok=True)
 
 
@@ -60,14 +60,14 @@ async def capture_batches():
         context = await browser.new_context(viewport={"width": 5000, "height": 5000})
         page = await context.new_page()
 
-        if os.path.exists(MANIFEST_PATH):
-            with open(MANIFEST_PATH, "r", encoding="utf-8") as f:
-                manifest = json.load(f)
-        else:
-            manifest = []
+        # if os.path.exists(MANIFEST_PATH):
+        #     with open(MANIFEST_PATH, "r", encoding="utf-8") as f:
+        #         manifest = json.load(f)
+        # else:
+        #     manifest = []
 
         # Create a look-up set for O(1) time complexity checks
-        existing_ids = {item["id"] for item in manifest}
+        # existing_ids = {item["id"] for item in manifest}
 
         for b in range(1, NUM_BATCHES + 1):
             batch_id = f"{b:02}"
@@ -75,12 +75,13 @@ async def capture_batches():
             for comp in COMPONENT_NAMES:
                 # 1. Define ID and Path first for the resume check
                 current_id = f"{CATEGORY}_{batch_id}_{comp}"
-                img_name = f"Mut_{batch_id}_{comp}.png"
+                # img_name = f"Mut_{batch_id}_{comp}.png"
+                img_name = f"{comp}.png"
                 final_path = os.path.join(IMG_OUT_DIR, img_name)
 
                 # 2. THE RESUME CHECK: Skip if ID is in manifest AND file exists
-                if current_id in existing_ids and os.path.exists(final_path):
-                    continue
+                # if current_id in existing_ids and os.path.exists(final_path):
+                #     continue
 
                 url = f"http://localhost:8000/render/{CATEGORY}/{batch_id}/{comp}"
                 try:
@@ -174,20 +175,20 @@ async def capture_batches():
                     os.remove(temp_path)
 
                     # 4. Only append if ID is truly new
-                    if current_id not in existing_ids:
-                        manifest.append({
-                            "id": current_id,
-                            "status": "pending_code_extraction",
-                            "image_anchor": os.path.join(CATEGORY, img_name),
-                            "text_anchor": "",
-                            "positive_node": "",
-                            "negative_node": "",
-                        })
-                        existing_ids.add(current_id)
+                    # if current_id not in existing_ids:
+                    #     manifest.append({
+                    #         "id": current_id,
+                    #         "status": "pending_code_extraction",
+                    #         "image_anchor": os.path.join(CATEGORY, img_name),
+                    #         "text_anchor": "",
+                    #         "positive_node": "",
+                    #         "negative_node": "",
+                    #     })
+                    #     existing_ids.add(current_id)
 
                     # Save to Master Manifest incrementally to preserve progress
-                    with open(MANIFEST_PATH, "w", encoding="utf-8") as f:
-                        json.dump(manifest, f, indent=4, ensure_ascii=False)
+                    # with open(MANIFEST_PATH, "w", encoding="utf-8") as f:
+                    #     json.dump(manifest, f, indent=4, ensure_ascii=False)
 
                     print(f"📸 Processed {img_name}")
 
