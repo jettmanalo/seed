@@ -1,0 +1,1506 @@
+[
+    {
+        "id": "layout_01_FeatureGridFour",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_FeatureGridFour.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_ServicePricingTable",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_ServicePricingTable.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_TeamMemberGallery",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_TeamMemberGallery.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_HorizontalMetricBar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_HorizontalMetricBar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_MultiStepProcess",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_MultiStepProcess.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_ContactFormTwoCol",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_ContactFormTwoCol.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_ProductFilterSidebar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_ProductFilterSidebar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_DashboardStatCards",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_DashboardStatCards.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_TestimonialMasonry",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_TestimonialMasonry.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_EcommerceFilters",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_EcommerceFilters.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_UserBioHeader",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_UserBioHeader.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_StatHeaderGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_StatHeaderGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_FooterLinkDirectory",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_FooterLinkDirectory.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_SocialFeedItem",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_SocialFeedItem.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_CompactSchedule",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_CompactSchedule.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_BreadcrumbTrail",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_BreadcrumbTrail.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_EmptyStateHero",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_EmptyStateHero.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_AvatarGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_AvatarGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_SettingsToggleList",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_SettingsToggleList.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_01_NotificationCenter",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_01_NotificationCenter.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_FeatureGridFour",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_FeatureGridFour.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_ServicePricingTable",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_ServicePricingTable.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_TeamMemberGallery",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_TeamMemberGallery.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_HorizontalMetricBar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_HorizontalMetricBar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_MultiStepProcess",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_MultiStepProcess.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_ContactFormTwoCol",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_ContactFormTwoCol.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_ProductFilterSidebar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_ProductFilterSidebar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_DashboardStatCards",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_DashboardStatCards.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_TestimonialMasonry",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_TestimonialMasonry.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_EcommerceFilters",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_EcommerceFilters.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_UserBioHeader",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_UserBioHeader.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_StatHeaderGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_StatHeaderGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_FooterLinkDirectory",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_FooterLinkDirectory.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_SocialFeedItem",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_SocialFeedItem.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_CompactSchedule",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_CompactSchedule.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_BreadcrumbTrail",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_BreadcrumbTrail.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_EmptyStateHero",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_EmptyStateHero.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_AvatarGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_AvatarGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_SettingsToggleList",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_SettingsToggleList.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_02_NotificationCenter",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_02_NotificationCenter.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_FeatureGridFour",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_FeatureGridFour.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_ServicePricingTable",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_ServicePricingTable.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_TeamMemberGallery",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_TeamMemberGallery.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_HorizontalMetricBar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_HorizontalMetricBar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_MultiStepProcess",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_MultiStepProcess.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_ContactFormTwoCol",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_ContactFormTwoCol.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_ProductFilterSidebar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_ProductFilterSidebar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_DashboardStatCards",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_DashboardStatCards.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_TestimonialMasonry",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_TestimonialMasonry.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_EcommerceFilters",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_EcommerceFilters.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_UserBioHeader",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_UserBioHeader.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_StatHeaderGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_StatHeaderGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_FooterLinkDirectory",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_FooterLinkDirectory.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_SocialFeedItem",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_SocialFeedItem.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_CompactSchedule",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_CompactSchedule.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_BreadcrumbTrail",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_BreadcrumbTrail.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_EmptyStateHero",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_EmptyStateHero.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_AvatarGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_AvatarGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_SettingsToggleList",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_SettingsToggleList.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_03_NotificationCenter",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_03_NotificationCenter.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_FeatureGridFour",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_FeatureGridFour.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_ServicePricingTable",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_ServicePricingTable.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_TeamMemberGallery",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_TeamMemberGallery.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_HorizontalMetricBar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_HorizontalMetricBar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_MultiStepProcess",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_MultiStepProcess.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_ContactFormTwoCol",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_ContactFormTwoCol.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_ProductFilterSidebar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_ProductFilterSidebar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_DashboardStatCards",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_DashboardStatCards.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_TestimonialMasonry",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_TestimonialMasonry.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_EcommerceFilters",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_EcommerceFilters.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_UserBioHeader",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_UserBioHeader.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_StatHeaderGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_StatHeaderGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_FooterLinkDirectory",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_FooterLinkDirectory.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_SocialFeedItem",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_SocialFeedItem.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_CompactSchedule",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_CompactSchedule.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_BreadcrumbTrail",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_BreadcrumbTrail.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_EmptyStateHero",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_EmptyStateHero.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_AvatarGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_AvatarGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_SettingsToggleList",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_SettingsToggleList.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_04_NotificationCenter",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_04_NotificationCenter.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_FeatureGridFour",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_FeatureGridFour.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_ServicePricingTable",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_ServicePricingTable.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_TeamMemberGallery",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_TeamMemberGallery.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_HorizontalMetricBar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_HorizontalMetricBar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_MultiStepProcess",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_MultiStepProcess.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_ContactFormTwoCol",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_ContactFormTwoCol.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_ProductFilterSidebar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_ProductFilterSidebar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_DashboardStatCards",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_DashboardStatCards.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_TestimonialMasonry",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_TestimonialMasonry.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_EcommerceFilters",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_EcommerceFilters.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_UserBioHeader",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_UserBioHeader.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_StatHeaderGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_StatHeaderGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_FooterLinkDirectory",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_FooterLinkDirectory.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_SocialFeedItem",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_SocialFeedItem.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_CompactSchedule",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_CompactSchedule.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_BreadcrumbTrail",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_BreadcrumbTrail.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_EmptyStateHero",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_EmptyStateHero.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_AvatarGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_AvatarGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_SettingsToggleList",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_SettingsToggleList.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_05_NotificationCenter",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_05_NotificationCenter.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_FeatureGridFour",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_FeatureGridFour.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_ServicePricingTable",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_ServicePricingTable.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_TeamMemberGallery",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_TeamMemberGallery.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_HorizontalMetricBar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_HorizontalMetricBar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_MultiStepProcess",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_MultiStepProcess.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_ContactFormTwoCol",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_ContactFormTwoCol.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_ProductFilterSidebar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_ProductFilterSidebar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_DashboardStatCards",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_DashboardStatCards.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_TestimonialMasonry",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_TestimonialMasonry.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_EcommerceFilters",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_EcommerceFilters.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_UserBioHeader",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_UserBioHeader.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_StatHeaderGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_StatHeaderGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_FooterLinkDirectory",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_FooterLinkDirectory.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_SocialFeedItem",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_SocialFeedItem.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_CompactSchedule",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_CompactSchedule.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_BreadcrumbTrail",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_BreadcrumbTrail.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_EmptyStateHero",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_EmptyStateHero.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_AvatarGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_AvatarGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_SettingsToggleList",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_SettingsToggleList.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_06_NotificationCenter",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_06_NotificationCenter.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_FeatureGridFour",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_FeatureGridFour.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_ServicePricingTable",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_ServicePricingTable.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_TeamMemberGallery",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_TeamMemberGallery.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_HorizontalMetricBar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_HorizontalMetricBar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_MultiStepProcess",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_MultiStepProcess.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_ContactFormTwoCol",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_ContactFormTwoCol.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_ProductFilterSidebar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_ProductFilterSidebar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_DashboardStatCards",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_DashboardStatCards.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_TestimonialMasonry",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_TestimonialMasonry.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_EcommerceFilters",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_EcommerceFilters.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_UserBioHeader",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_UserBioHeader.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_StatHeaderGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_StatHeaderGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_FooterLinkDirectory",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_FooterLinkDirectory.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_SocialFeedItem",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_SocialFeedItem.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_CompactSchedule",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_CompactSchedule.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_BreadcrumbTrail",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_BreadcrumbTrail.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_EmptyStateHero",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_EmptyStateHero.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_AvatarGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_AvatarGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_SettingsToggleList",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_SettingsToggleList.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_07_NotificationCenter",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_07_NotificationCenter.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_FeatureGridFour",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_FeatureGridFour.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_ServicePricingTable",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_ServicePricingTable.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_TeamMemberGallery",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_TeamMemberGallery.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_HorizontalMetricBar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_HorizontalMetricBar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_MultiStepProcess",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_MultiStepProcess.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_ContactFormTwoCol",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_ContactFormTwoCol.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_ProductFilterSidebar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_ProductFilterSidebar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_DashboardStatCards",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_DashboardStatCards.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_TestimonialMasonry",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_TestimonialMasonry.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_EcommerceFilters",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_EcommerceFilters.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_UserBioHeader",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_UserBioHeader.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_StatHeaderGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_StatHeaderGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_FooterLinkDirectory",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_FooterLinkDirectory.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_SocialFeedItem",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_SocialFeedItem.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_CompactSchedule",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_CompactSchedule.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_BreadcrumbTrail",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_BreadcrumbTrail.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_EmptyStateHero",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_EmptyStateHero.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_AvatarGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_AvatarGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_SettingsToggleList",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_SettingsToggleList.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_08_NotificationCenter",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_08_NotificationCenter.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_FeatureGridFour",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_FeatureGridFour.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_ServicePricingTable",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_ServicePricingTable.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_TeamMemberGallery",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_TeamMemberGallery.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_HorizontalMetricBar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_HorizontalMetricBar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_MultiStepProcess",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_MultiStepProcess.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_ContactFormTwoCol",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_ContactFormTwoCol.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_ProductFilterSidebar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_ProductFilterSidebar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_DashboardStatCards",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_DashboardStatCards.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_TestimonialMasonry",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_TestimonialMasonry.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_EcommerceFilters",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_EcommerceFilters.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_UserBioHeader",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_UserBioHeader.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_StatHeaderGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_StatHeaderGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_FooterLinkDirectory",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_FooterLinkDirectory.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_SocialFeedItem",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_SocialFeedItem.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_CompactSchedule",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_CompactSchedule.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_BreadcrumbTrail",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_BreadcrumbTrail.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_EmptyStateHero",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_EmptyStateHero.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_AvatarGroup",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_AvatarGroup.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_SettingsToggleList",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_SettingsToggleList.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_09_NotificationCenter",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_09_NotificationCenter.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_10_FeatureGridFour",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_10_FeatureGridFour.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_10_ServicePricingTable",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_10_ServicePricingTable.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_10_TeamMemberGallery",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_10_TeamMemberGallery.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_10_HorizontalMetricBar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_10_HorizontalMetricBar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_10_MultiStepProcess",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_10_MultiStepProcess.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_10_ContactFormTwoCol",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_10_ContactFormTwoCol.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_10_ProductFilterSidebar",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_10_ProductFilterSidebar.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    },
+    {
+        "id": "layout_10_DashboardStatCards",
+        "status": "pending_code_extraction",
+        "image_anchor": "layout/Mut_10_DashboardStatCards.png",
+        "text_anchor": "",
+        "positive_node": "",
+        "negative_node": ""
+    }
+]

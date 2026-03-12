@@ -1,0 +1,1151 @@
+🔍 Found 20 layering components. Generating 50 batches...
+
+--- Processing Batch 01 ---
+  ✅ MainModal                 | POSITION_BREAK       | relative -> absolute
+  ✅ GlobalNavbar              | Z_INDEX_LOWER        | z-40 -> z-[-1]
+  ✅ UserMenuDropdown          | RANDOM_LAYER_SWAP    | z-30 -> z-40
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> static
+  ✅ TooltipBottom             | POSITION_BREAK       | relative -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | RANDOM_LAYER_SWAP    | z-10 -> z-50
+  ✅ DashboardSidebar          | RANDOM_LAYER_SWAP    | z-30 -> z-40
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> static
+  ✅ PricingToggleOverlay      | Z_INDEX_LOWER        | z-10 -> z-[-10]
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> static
+  ✅ SearchAutocomplete        | Z_INDEX_LOWER        | z-50 -> z-0
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> static
+  ✅ StepIndicator             | Z_INDEX_EXTREME      | z-0 -> z-[100]
+  ✅ FullScreenLoader          | RANDOM_LAYER_SWAP    | z-0 -> z-[999]
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | fixed -> static
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_01.jsx
+
+--- Processing Batch 02 ---
+  ✅ MainModal                 | POSITION_BREAK       | fixed -> absolute
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> static
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | POSITION_BREAK       | relative -> absolute
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | relative -> absolute
+  ✅ DashboardSidebar          | Z_INDEX_EXTREME      | z-30 -> z-[999]
+  ✅ VideoPlayerControls       | Z_INDEX_LOWER        | z-20 -> z-[-1]
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> absolute
+  ✅ MobileBottomNav           | RANDOM_LAYER_SWAP    | z-40 -> z-[1]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> absolute
+  ✅ StepIndicator             | Z_INDEX_LOWER        | z-0 -> z-[-10]
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> absolute
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | absolute -> static
+  ✅ MegaMenu                  | Z_INDEX_EXTREME      | z-30 -> z-[999]
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_02.jsx
+
+--- Processing Batch 03 ---
+  ✅ MainModal                 | POSITION_BREAK       | fixed -> absolute
+  ✅ GlobalNavbar              | RANDOM_LAYER_SWAP    | z-40 -> z-30
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | RANDOM_LAYER_SWAP    | z-10 -> z-30
+  ✅ DashboardSidebar          | RANDOM_LAYER_SWAP    | z-30 -> z-0
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> static
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> absolute
+  ✅ MobileBottomNav           | RANDOM_LAYER_SWAP    | z-10 -> z-0
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-40 -> z-[1]
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> static
+  ✅ FullScreenLoader          | RANDOM_LAYER_SWAP    | z-0 -> z-[-1]
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | absolute -> static
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_03.jsx
+
+--- Processing Batch 04 ---
+  ✅ MainModal                 | RANDOM_LAYER_SWAP    | z-10 -> z-[5]
+  ✅ GlobalNavbar              | Z_INDEX_LOWER        | z-40 -> z-[-10]
+  ✅ UserMenuDropdown          | Z_INDEX_LOWER        | z-30 -> z-0
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ DashboardSidebar          | Z_INDEX_EXTREME      | z-30 -> z-[999]
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> relative
+  ✅ PricingToggleOverlay      | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ MobileBottomNav           | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> relative
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> absolute
+  ✅ StepIndicator             | RANDOM_LAYER_SWAP    | z-0 -> z-20
+  ✅ FullScreenLoader          | Z_INDEX_EXTREME      | z-0 -> z-[100]
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | relative -> absolute
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_04.jsx
+
+--- Processing Batch 05 ---
+  ✅ MainModal                 | Z_INDEX_EXTREME      | z-0 -> z-[100]
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> static
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> static
+  ✅ FloatingHelpButton        | Z_INDEX_LOWER        | z-50 -> z-[-10]
+  ✅ TooltipBottom             | Z_INDEX_EXTREME      | z-30 -> z-[100]
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> static
+  ✅ DashboardSidebar          | RANDOM_LAYER_SWAP    | z-30 -> z-40
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> relative
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> static
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> relative
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | Z_INDEX_EXTREME      | z-30 -> z-[100]
+  ✅ StepIndicator             | POSITION_BREAK       | absolute -> static
+  ✅ FullScreenLoader          | POSITION_BREAK       | fixed -> absolute
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | relative -> static
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> relative
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_05.jsx
+
+--- Processing Batch 06 ---
+  ✅ MainModal                 | RANDOM_LAYER_SWAP    | z-10 -> z-[-1]
+  ✅ GlobalNavbar              | Z_INDEX_LOWER        | z-40 -> z-0
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | Z_INDEX_LOWER        | z-50 -> z-[-10]
+  ✅ TooltipBottom             | Z_INDEX_EXTREME      | z-30 -> z-[100]
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> static
+  ✅ VideoPlayerControls       | RANDOM_LAYER_SWAP    | z-20 -> z-50
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | absolute -> relative
+  ✅ MobileBottomNav           | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-20 -> z-50
+  ✅ StepIndicator             | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> absolute
+  ✅ ProductCardHover          | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ ChatWindow                | Z_INDEX_LOWER        | z-10 -> z-[-10]
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> absolute
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_06.jsx
+
+--- Processing Batch 07 ---
+  ✅ MainModal                 | Z_INDEX_EXTREME      | z-50 -> z-[100]
+  ✅ GlobalNavbar              | Z_INDEX_EXTREME      | z-40 -> z-[100]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | RANDOM_LAYER_SWAP    | z-50 -> z-40
+  ✅ TooltipBottom             | RANDOM_LAYER_SWAP    | z-30 -> z-20
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | relative -> static
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> absolute
+  ✅ VideoPlayerControls       | POSITION_BREAK       | relative -> absolute
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> absolute
+  ✅ MobileBottomNav           | Z_INDEX_LOWER        | z-40 -> z-0
+  ✅ SearchAutocomplete        | Z_INDEX_LOWER        | z-50 -> z-[-1]
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> absolute
+  ✅ StepIndicator             | Z_INDEX_EXTREME      | z-0 -> z-[999]
+  ✅ FullScreenLoader          | Z_INDEX_EXTREME      | z-0 -> z-[100]
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | Z_INDEX_EXTREME      | z-50 -> z-[999]
+  ✅ MegaMenu                  | Z_INDEX_LOWER        | z-30 -> z-0
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_07.jsx
+
+--- Processing Batch 08 ---
+  ✅ MainModal                 | Z_INDEX_LOWER        | z-50 -> z-[-10]
+  ✅ GlobalNavbar              | RANDOM_LAYER_SWAP    | z-40 -> z-0
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> relative
+  ✅ DashboardSidebar          | Z_INDEX_LOWER        | z-30 -> z-0
+  ✅ VideoPlayerControls       | POSITION_BREAK       | relative -> static
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | absolute -> static
+  ✅ MobileBottomNav           | Z_INDEX_EXTREME      | z-40 -> z-[999]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> absolute
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-50 -> z-30
+  ✅ StepIndicator             | Z_INDEX_EXTREME      | z-0 -> z-[100]
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> static
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | fixed -> absolute
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_08.jsx
+
+--- Processing Batch 09 ---
+  ✅ MainModal                 | POSITION_BREAK       | fixed -> static
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> relative
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> static
+  ✅ DashboardSidebar          | Z_INDEX_LOWER        | z-30 -> z-[-10]
+  ✅ VideoPlayerControls       | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> static
+  ✅ MobileBottomNav           | Z_INDEX_EXTREME      | z-40 -> z-[100]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> relative
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | Z_INDEX_EXTREME      | z-30 -> z-[999]
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> static
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> absolute
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> absolute
+  ✅ ChatWindow                | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ MegaMenu                  | Z_INDEX_LOWER        | z-30 -> z-[-1]
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_09.jsx
+
+--- Processing Batch 10 ---
+  ✅ MainModal                 | POSITION_BREAK       | fixed -> absolute
+  ✅ GlobalNavbar              | RANDOM_LAYER_SWAP    | z-40 -> z-[999]
+  ✅ UserMenuDropdown          | Z_INDEX_EXTREME      | z-30 -> z-[999]
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | RANDOM_LAYER_SWAP    | z-30 -> z-20
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> static
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> static
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> relative
+  ✅ PricingToggleOverlay      | RANDOM_LAYER_SWAP    | z-10 -> z-30
+  ✅ MobileBottomNav           | RANDOM_LAYER_SWAP    | z-40 -> z-[100]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> relative
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> static
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | Z_INDEX_LOWER        | z-30 -> z-0
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> absolute
+  ✅ FullScreenLoader          | Z_INDEX_LOWER        | z-0 -> z-[-1]
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> static
+  ✅ ChatWindow                | RANDOM_LAYER_SWAP    | z-50 -> z-[1]
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_10.jsx
+
+--- Processing Batch 11 ---
+  ✅ MainModal                 | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> absolute
+  ✅ UserMenuDropdown          | RANDOM_LAYER_SWAP    | z-30 -> z-[100]
+  ✅ FloatingHelpButton        | Z_INDEX_EXTREME      | z-50 -> z-[100]
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> absolute
+  ✅ VideoPlayerControls       | RANDOM_LAYER_SWAP    | z-10 -> z-0
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | absolute -> relative
+  ✅ MobileBottomNav           | POSITION_BREAK       | relative -> static
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-10 -> z-20
+  ✅ StepIndicator             | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ FullScreenLoader          | POSITION_BREAK       | fixed -> relative
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> static
+  ✅ ChatWindow                | POSITION_BREAK       | fixed -> relative
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> relative
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_11.jsx
+
+--- Processing Batch 12 ---
+  ✅ MainModal                 | RANDOM_LAYER_SWAP    | z-0 -> z-[-10]
+  ✅ GlobalNavbar              | RANDOM_LAYER_SWAP    | z-40 -> z-[1]
+  ✅ UserMenuDropdown          | Z_INDEX_EXTREME      | z-30 -> z-[999]
+  ✅ FloatingHelpButton        | Z_INDEX_EXTREME      | z-50 -> z-[999]
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | Z_INDEX_LOWER        | z-10 -> z-[-10]
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> absolute
+  ✅ VideoPlayerControls       | POSITION_BREAK       | relative -> static
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> static
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> static
+  ✅ SearchAutocomplete        | RANDOM_LAYER_SWAP    | z-50 -> z-[999]
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-40 -> z-50
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> absolute
+  ✅ FullScreenLoader          | POSITION_BREAK       | absolute -> relative
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> static
+  ✅ ChatWindow                | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_12.jsx
+
+--- Processing Batch 13 ---
+  ✅ MainModal                 | POSITION_BREAK       | fixed -> static
+  ✅ GlobalNavbar              | Z_INDEX_LOWER        | z-40 -> z-[-1]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | Z_INDEX_EXTREME      | z-30 -> z-[999]
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | RANDOM_LAYER_SWAP    | z-10 -> z-[100]
+  ✅ DashboardSidebar          | Z_INDEX_LOWER        | z-30 -> z-0
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> static
+  ✅ PricingToggleOverlay      | Z_INDEX_LOWER        | z-0 -> z-[-10]
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> relative
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-20 -> z-0
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> static
+  ✅ FullScreenLoader          | RANDOM_LAYER_SWAP    | z-0 -> z-10
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> absolute
+  ✅ ChatWindow                | Z_INDEX_LOWER        | z-50 -> z-0
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> absolute
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_13.jsx
+
+--- Processing Batch 14 ---
+  ✅ MainModal                 | Z_INDEX_EXTREME      | z-50 -> z-[999]
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> relative
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> static
+  ✅ FloatingHelpButton        | RANDOM_LAYER_SWAP    | z-50 -> z-[999]
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | RANDOM_LAYER_SWAP    | z-10 -> z-[999]
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> static
+  ✅ VideoPlayerControls       | RANDOM_LAYER_SWAP    | z-10 -> z-0
+  ✅ PricingToggleOverlay      | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> static
+  ✅ SearchAutocomplete        | Z_INDEX_EXTREME      | z-50 -> z-[100]
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> static
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | Z_INDEX_EXTREME      | z-40 -> z-[100]
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> static
+  ✅ FullScreenLoader          | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> static
+  ✅ ChatWindow                | RANDOM_LAYER_SWAP    | z-50 -> z-[999]
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> relative
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_14.jsx
+
+--- Processing Batch 15 ---
+  ✅ MainModal                 | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ GlobalNavbar              | Z_INDEX_EXTREME      | z-40 -> z-[999]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | relative -> static
+  ✅ FloatingHelpButton        | RANDOM_LAYER_SWAP    | z-50 -> z-[100]
+  ✅ TooltipBottom             | Z_INDEX_LOWER        | z-30 -> z-0
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> relative
+  ✅ DashboardSidebar          | RANDOM_LAYER_SWAP    | z-30 -> z-20
+  ✅ VideoPlayerControls       | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ PricingToggleOverlay      | RANDOM_LAYER_SWAP    | z-0 -> z-40
+  ✅ MobileBottomNav           | POSITION_BREAK       | fixed -> static
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | Z_INDEX_EXTREME      | z-20 -> z-[999]
+  ✅ StepIndicator             | POSITION_BREAK       | absolute -> relative
+  ✅ FullScreenLoader          | POSITION_BREAK       | absolute -> static
+  ✅ ProductCardHover          | RANDOM_LAYER_SWAP    | z-20 -> z-0
+  ✅ ChatWindow                | POSITION_BREAK       | absolute -> relative
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> relative
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_15.jsx
+
+--- Processing Batch 16 ---
+  ✅ MainModal                 | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ GlobalNavbar              | RANDOM_LAYER_SWAP    | z-40 -> z-10
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> static
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> absolute
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> static
+  ✅ PricingToggleOverlay      | RANDOM_LAYER_SWAP    | z-10 -> z-[-1]
+  ✅ MobileBottomNav           | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ SearchAutocomplete        | Z_INDEX_EXTREME      | z-50 -> z-[100]
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> static
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> static
+  ✅ StepIndicator             | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> static
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | relative -> static
+  ✅ MegaMenu                  | Z_INDEX_LOWER        | z-30 -> z-[-10]
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_16.jsx
+
+--- Processing Batch 17 ---
+  ✅ MainModal                 | POSITION_BREAK       | absolute -> static
+  ✅ GlobalNavbar              | Z_INDEX_LOWER        | z-40 -> z-0
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | Z_INDEX_EXTREME      | z-50 -> z-[999]
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | relative -> absolute
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> relative
+  ✅ VideoPlayerControls       | POSITION_BREAK       | relative -> static
+  ✅ PricingToggleOverlay      | Z_INDEX_LOWER        | z-0 -> z-[-1]
+  ✅ MobileBottomNav           | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ SearchAutocomplete        | RANDOM_LAYER_SWAP    | z-50 -> z-[-1]
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ StepIndicator             | POSITION_BREAK       | absolute -> static
+  ✅ FullScreenLoader          | RANDOM_LAYER_SWAP    | z-0 -> z-50
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> static
+  ✅ ChatWindow                | POSITION_BREAK       | relative -> static
+  ✅ MegaMenu                  | Z_INDEX_EXTREME      | z-30 -> z-[100]
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_17.jsx
+
+--- Processing Batch 18 ---
+  ✅ MainModal                 | POSITION_BREAK       | relative -> absolute
+  ✅ GlobalNavbar              | Z_INDEX_EXTREME      | z-40 -> z-[100]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> static
+  ✅ FloatingHelpButton        | RANDOM_LAYER_SWAP    | z-50 -> z-40
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> static
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> relative
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> static
+  ✅ PricingToggleOverlay      | RANDOM_LAYER_SWAP    | z-0 -> z-[-1]
+  ✅ MobileBottomNav           | RANDOM_LAYER_SWAP    | z-10 -> z-20
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | Z_INDEX_EXTREME      | z-40 -> z-[100]
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> absolute
+  ✅ FullScreenLoader          | RANDOM_LAYER_SWAP    | z-10 -> z-[-10]
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | absolute -> static
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_18.jsx
+
+--- Processing Batch 19 ---
+  ✅ MainModal                 | Z_INDEX_LOWER        | z-50 -> z-[-1]
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> absolute
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> static
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> static
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | RANDOM_LAYER_SWAP    | z-10 -> z-30
+  ✅ DashboardSidebar          | Z_INDEX_EXTREME      | z-30 -> z-[999]
+  ✅ VideoPlayerControls       | Z_INDEX_LOWER        | z-20 -> z-[-10]
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> static
+  ✅ MobileBottomNav           | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> absolute
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> static
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | Z_INDEX_EXTREME      | z-40 -> z-[999]
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> absolute
+  ✅ FullScreenLoader          | POSITION_BREAK       | absolute -> relative
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> static
+  ✅ ChatWindow                | RANDOM_LAYER_SWAP    | z-10 -> z-0
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> absolute
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_19.jsx
+
+--- Processing Batch 20 ---
+  ✅ MainModal                 | Z_INDEX_LOWER        | z-0 -> z-[-1]
+  ✅ GlobalNavbar              | Z_INDEX_EXTREME      | z-40 -> z-[999]
+  ✅ UserMenuDropdown          | Z_INDEX_LOWER        | z-30 -> z-0
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | RANDOM_LAYER_SWAP    | z-30 -> z-10
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | Z_INDEX_LOWER        | z-10 -> z-[-10]
+  ✅ DashboardSidebar          | Z_INDEX_EXTREME      | z-30 -> z-[999]
+  ✅ VideoPlayerControls       | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | absolute -> relative
+  ✅ MobileBottomNav           | POSITION_BREAK       | relative -> absolute
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> relative
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> static
+  ✅ ProfileAvatarPile         | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ StepIndicator             | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ FullScreenLoader          | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | Z_INDEX_LOWER        | z-50 -> z-0
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> relative
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_20.jsx
+
+--- Processing Batch 21 ---
+  ✅ MainModal                 | POSITION_BREAK       | relative -> static
+  ✅ GlobalNavbar              | RANDOM_LAYER_SWAP    | z-40 -> z-[1]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | relative -> absolute
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> relative
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> relative
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> relative
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> static
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> static
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-40 -> z-20
+  ✅ StepIndicator             | Z_INDEX_EXTREME      | z-0 -> z-[100]
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> static
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | RANDOM_LAYER_SWAP    | z-50 -> z-40
+  ✅ MegaMenu                  | RANDOM_LAYER_SWAP    | z-30 -> z-[999]
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_21.jsx
+
+--- Processing Batch 22 ---
+  ✅ MainModal                 | POSITION_BREAK       | fixed -> absolute
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> static
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> static
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> static
+  ✅ TooltipBottom             | POSITION_BREAK       | relative -> absolute
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> relative
+  ✅ DashboardSidebar          | RANDOM_LAYER_SWAP    | z-30 -> z-0
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> relative
+  ✅ PricingToggleOverlay      | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ MobileBottomNav           | RANDOM_LAYER_SWAP    | z-10 -> z-[999]
+  ✅ SearchAutocomplete        | Z_INDEX_LOWER        | z-50 -> z-[-10]
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> static
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> absolute
+  ✅ FullScreenLoader          | POSITION_BREAK       | absolute -> relative
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> static
+  ✅ ChatWindow                | POSITION_BREAK       | relative -> static
+  ✅ MegaMenu                  | Z_INDEX_EXTREME      | z-30 -> z-[999]
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_22.jsx
+
+--- Processing Batch 23 ---
+  ✅ MainModal                 | POSITION_BREAK       | fixed -> static
+  ✅ GlobalNavbar              | Z_INDEX_EXTREME      | z-40 -> z-[999]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | relative -> absolute
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> static
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> relative
+  ✅ DashboardSidebar          | Z_INDEX_LOWER        | z-30 -> z-0
+  ✅ VideoPlayerControls       | POSITION_BREAK       | relative -> absolute
+  ✅ PricingToggleOverlay      | RANDOM_LAYER_SWAP    | z-0 -> z-40
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> static
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> absolute
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> static
+  ✅ ProfileAvatarPile         | Z_INDEX_LOWER        | z-30 -> z-[-1]
+  ✅ StepIndicator             | Z_INDEX_EXTREME      | z-0 -> z-[999]
+  ✅ FullScreenLoader          | POSITION_BREAK       | absolute -> static
+  ✅ ProductCardHover          | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ ChatWindow                | POSITION_BREAK       | relative -> static
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_23.jsx
+
+--- Processing Batch 24 ---
+  ✅ MainModal                 | POSITION_BREAK       | absolute -> static
+  ✅ GlobalNavbar              | Z_INDEX_LOWER        | z-40 -> z-0
+  ✅ UserMenuDropdown          | Z_INDEX_EXTREME      | z-30 -> z-[999]
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> static
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> relative
+  ✅ VideoPlayerControls       | POSITION_BREAK       | relative -> absolute
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> static
+  ✅ MobileBottomNav           | POSITION_BREAK       | relative -> absolute
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> static
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-40 -> z-0
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> absolute
+  ✅ FullScreenLoader          | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> static
+  ✅ ChatWindow                | Z_INDEX_LOWER        | z-50 -> z-0
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> relative
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_24.jsx
+
+--- Processing Batch 25 ---
+  ✅ MainModal                 | POSITION_BREAK       | relative -> static
+  ✅ GlobalNavbar              | Z_INDEX_EXTREME      | z-40 -> z-[999]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | relative -> static
+  ✅ FloatingHelpButton        | Z_INDEX_LOWER        | z-50 -> z-[-1]
+  ✅ TooltipBottom             | Z_INDEX_EXTREME      | z-30 -> z-[100]
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> static
+  ✅ DashboardSidebar          | Z_INDEX_LOWER        | z-30 -> z-[-1]
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> relative
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | absolute -> relative
+  ✅ MobileBottomNav           | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ SearchAutocomplete        | Z_INDEX_LOWER        | z-50 -> z-[-1]
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> absolute
+  ✅ StepIndicator             | RANDOM_LAYER_SWAP    | z-0 -> z-[1]
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> absolute
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> absolute
+  ✅ ChatWindow                | Z_INDEX_EXTREME      | z-50 -> z-[100]
+  ✅ MegaMenu                  | Z_INDEX_LOWER        | z-30 -> z-[-1]
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_25.jsx
+
+--- Processing Batch 26 ---
+  ✅ MainModal                 | Z_INDEX_LOWER        | z-50 -> z-0
+  ✅ GlobalNavbar              | RANDOM_LAYER_SWAP    | z-40 -> z-[999]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> static
+  ✅ FloatingHelpButton        | RANDOM_LAYER_SWAP    | z-50 -> z-40
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | RANDOM_LAYER_SWAP    | z-10 -> z-50
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> static
+  ✅ VideoPlayerControls       | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ PricingToggleOverlay      | RANDOM_LAYER_SWAP    | z-10 -> z-[100]
+  ✅ MobileBottomNav           | POSITION_BREAK       | relative -> static
+  ✅ SearchAutocomplete        | Z_INDEX_EXTREME      | z-50 -> z-[100]
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> static
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> static
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> absolute
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> static
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> static
+  ✅ ChatWindow                | POSITION_BREAK       | absolute -> relative
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_26.jsx
+
+--- Processing Batch 27 ---
+  ✅ MainModal                 | POSITION_BREAK       | relative -> static
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> static
+  ✅ UserMenuDropdown          | POSITION_BREAK       | relative -> absolute
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> relative
+  ✅ TooltipBottom             | POSITION_BREAK       | relative -> absolute
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | relative -> static
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> absolute
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> relative
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | absolute -> static
+  ✅ MobileBottomNav           | POSITION_BREAK       | fixed -> absolute
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> absolute
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> static
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> static
+  ✅ FullScreenLoader          | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> absolute
+  ✅ ChatWindow                | POSITION_BREAK       | relative -> static
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> absolute
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_27.jsx
+
+--- Processing Batch 28 ---
+  ✅ MainModal                 | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> absolute
+  ✅ UserMenuDropdown          | Z_INDEX_EXTREME      | z-30 -> z-[100]
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> static
+  ✅ VideoPlayerControls       | POSITION_BREAK       | relative -> absolute
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> absolute
+  ✅ MobileBottomNav           | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> absolute
+  ✅ StepIndicator             | Z_INDEX_EXTREME      | z-0 -> z-[100]
+  ✅ FullScreenLoader          | POSITION_BREAK       | fixed -> static
+  ✅ ProductCardHover          | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ ChatWindow                | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_28.jsx
+
+--- Processing Batch 29 ---
+  ✅ MainModal                 | RANDOM_LAYER_SWAP    | z-10 -> z-[999]
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> absolute
+  ✅ UserMenuDropdown          | POSITION_BREAK       | relative -> static
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> relative
+  ✅ DashboardSidebar          | RANDOM_LAYER_SWAP    | z-30 -> z-50
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> relative
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> static
+  ✅ MobileBottomNav           | RANDOM_LAYER_SWAP    | z-40 -> z-[-10]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> absolute
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | Z_INDEX_EXTREME      | z-50 -> z-[999]
+  ✅ StepIndicator             | POSITION_BREAK       | absolute -> static
+  ✅ FullScreenLoader          | POSITION_BREAK       | fixed -> absolute
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | relative -> static
+  ✅ MegaMenu                  | Z_INDEX_LOWER        | z-30 -> z-[-1]
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_29.jsx
+
+--- Processing Batch 30 ---
+  ✅ MainModal                 | POSITION_BREAK       | fixed -> static
+  ✅ GlobalNavbar              | Z_INDEX_EXTREME      | z-40 -> z-[999]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | relative -> static
+  ✅ FloatingHelpButton        | Z_INDEX_EXTREME      | z-50 -> z-[999]
+  ✅ TooltipBottom             | POSITION_BREAK       | relative -> absolute
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> static
+  ✅ DashboardSidebar          | Z_INDEX_LOWER        | z-30 -> z-[-1]
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> static
+  ✅ PricingToggleOverlay      | RANDOM_LAYER_SWAP    | z-0 -> z-[-10]
+  ✅ MobileBottomNav           | POSITION_BREAK       | relative -> static
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ StepIndicator             | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ FullScreenLoader          | RANDOM_LAYER_SWAP    | z-10 -> z-[-10]
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | fixed -> relative
+  ✅ MegaMenu                  | Z_INDEX_LOWER        | z-30 -> z-0
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_30.jsx
+
+--- Processing Batch 31 ---
+  ✅ MainModal                 | POSITION_BREAK       | relative -> absolute
+  ✅ GlobalNavbar              | Z_INDEX_EXTREME      | z-40 -> z-[100]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> static
+  ✅ DashboardSidebar          | RANDOM_LAYER_SWAP    | z-30 -> z-0
+  ✅ VideoPlayerControls       | Z_INDEX_LOWER        | z-10 -> z-[-10]
+  ✅ PricingToggleOverlay      | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ MobileBottomNav           | Z_INDEX_EXTREME      | z-40 -> z-[100]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> static
+  ✅ ProfileAvatarPile         | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> static
+  ✅ FullScreenLoader          | Z_INDEX_LOWER        | z-0 -> z-[-1]
+  ✅ ProductCardHover          | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ ChatWindow                | RANDOM_LAYER_SWAP    | z-10 -> z-40
+  ✅ MegaMenu                  | Z_INDEX_LOWER        | z-30 -> z-0
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_31.jsx
+
+--- Processing Batch 32 ---
+  ✅ MainModal                 | Z_INDEX_LOWER        | z-10 -> z-[-10]
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> relative
+  ✅ UserMenuDropdown          | POSITION_BREAK       | relative -> absolute
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> static
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | RANDOM_LAYER_SWAP    | z-10 -> z-40
+  ✅ DashboardSidebar          | Z_INDEX_LOWER        | z-30 -> z-[-10]
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> relative
+  ✅ PricingToggleOverlay      | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ MobileBottomNav           | POSITION_BREAK       | fixed -> static
+  ✅ SearchAutocomplete        | Z_INDEX_LOWER        | z-50 -> z-0
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> static
+  ✅ StepIndicator             | Z_INDEX_LOWER        | z-0 -> z-[-1]
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> static
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> absolute
+  ✅ ChatWindow                | POSITION_BREAK       | fixed -> absolute
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> relative
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_32.jsx
+
+--- Processing Batch 33 ---
+  ✅ MainModal                 | RANDOM_LAYER_SWAP    | z-0 -> z-10
+  ✅ GlobalNavbar              | Z_INDEX_EXTREME      | z-40 -> z-[100]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | relative -> static
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> static
+  ✅ TooltipBottom             | POSITION_BREAK       | relative -> absolute
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> static
+  ✅ DashboardSidebar          | RANDOM_LAYER_SWAP    | z-30 -> z-[100]
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> relative
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> absolute
+  ✅ MobileBottomNav           | Z_INDEX_EXTREME      | z-40 -> z-[999]
+  ✅ SearchAutocomplete        | RANDOM_LAYER_SWAP    | z-50 -> z-30
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> static
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ StepIndicator             | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> absolute
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> static
+  ✅ ChatWindow                | POSITION_BREAK       | fixed -> absolute
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> absolute
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_33.jsx
+
+--- Processing Batch 34 ---
+  ✅ MainModal                 | POSITION_BREAK       | relative -> absolute
+  ✅ GlobalNavbar              | Z_INDEX_LOWER        | z-40 -> z-[-1]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> relative
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | RANDOM_LAYER_SWAP    | z-10 -> z-30
+  ✅ DashboardSidebar          | Z_INDEX_EXTREME      | z-30 -> z-[100]
+  ✅ VideoPlayerControls       | RANDOM_LAYER_SWAP    | z-10 -> z-40
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> static
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> static
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> absolute
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> static
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-40 -> z-10
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> absolute
+  ✅ FullScreenLoader          | POSITION_BREAK       | absolute -> relative
+  ✅ ProductCardHover          | Z_INDEX_EXTREME      | z-20 -> z-[100]
+  ✅ ChatWindow                | Z_INDEX_EXTREME      | z-50 -> z-[100]
+  ✅ MegaMenu                  | Z_INDEX_LOWER        | z-30 -> z-0
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_34.jsx
+
+--- Processing Batch 35 ---
+  ✅ MainModal                 | POSITION_BREAK       | relative -> absolute
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> static
+  ✅ UserMenuDropdown          | Z_INDEX_EXTREME      | z-30 -> z-[100]
+  ✅ FloatingHelpButton        | Z_INDEX_LOWER        | z-50 -> z-[-10]
+  ✅ TooltipBottom             | POSITION_BREAK       | relative -> absolute
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | relative -> static
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> relative
+  ✅ VideoPlayerControls       | Z_INDEX_LOWER        | z-20 -> z-[-1]
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> static
+  ✅ MobileBottomNav           | RANDOM_LAYER_SWAP    | z-40 -> z-[100]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> relative
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> static
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-20 -> z-[-10]
+  ✅ StepIndicator             | POSITION_BREAK       | absolute -> relative
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> absolute
+  ✅ ProductCardHover          | Z_INDEX_EXTREME      | z-20 -> z-[100]
+  ✅ ChatWindow                | POSITION_BREAK       | relative -> absolute
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_35.jsx
+
+--- Processing Batch 36 ---
+  ✅ MainModal                 | POSITION_BREAK       | relative -> static
+  ✅ GlobalNavbar              | Z_INDEX_LOWER        | z-40 -> z-[-10]
+  ✅ UserMenuDropdown          | Z_INDEX_LOWER        | z-30 -> z-[-1]
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> static
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | relative -> absolute
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> relative
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> relative
+  ✅ PricingToggleOverlay      | RANDOM_LAYER_SWAP    | z-0 -> z-[-10]
+  ✅ MobileBottomNav           | POSITION_BREAK       | relative -> static
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> absolute
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> static
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> static
+  ✅ StepIndicator             | POSITION_BREAK       | absolute -> static
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> static
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> static
+  ✅ ChatWindow                | RANDOM_LAYER_SWAP    | z-50 -> z-20
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_36.jsx
+
+--- Processing Batch 37 ---
+  ✅ MainModal                 | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> absolute
+  ✅ UserMenuDropdown          | POSITION_BREAK       | relative -> static
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> static
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ DashboardSidebar          | Z_INDEX_EXTREME      | z-30 -> z-[100]
+  ✅ VideoPlayerControls       | POSITION_BREAK       | relative -> absolute
+  ✅ PricingToggleOverlay      | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ MobileBottomNav           | Z_INDEX_LOWER        | z-40 -> z-[-10]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> static
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ StepIndicator             | POSITION_BREAK       | absolute -> relative
+  ✅ FullScreenLoader          | POSITION_BREAK       | absolute -> static
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | Z_INDEX_LOWER        | z-50 -> z-[-10]
+  ✅ MegaMenu                  | Z_INDEX_EXTREME      | z-30 -> z-[100]
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_37.jsx
+
+--- Processing Batch 38 ---
+  ✅ MainModal                 | POSITION_BREAK       | absolute -> static
+  ✅ GlobalNavbar              | Z_INDEX_LOWER        | z-40 -> z-0
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> static
+  ✅ FloatingHelpButton        | RANDOM_LAYER_SWAP    | z-50 -> z-[999]
+  ✅ TooltipBottom             | Z_INDEX_LOWER        | z-30 -> z-[-10]
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> relative
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> relative
+  ✅ VideoPlayerControls       | RANDOM_LAYER_SWAP    | z-10 -> z-50
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | absolute -> static
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> relative
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> relative
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | Z_INDEX_LOWER        | z-20 -> z-0
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> absolute
+  ✅ FullScreenLoader          | POSITION_BREAK       | absolute -> relative
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> absolute
+  ✅ ChatWindow                | POSITION_BREAK       | fixed -> static
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> relative
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_38.jsx
+
+--- Processing Batch 39 ---
+  ✅ MainModal                 | POSITION_BREAK       | relative -> absolute
+  ✅ GlobalNavbar              | Z_INDEX_LOWER        | z-40 -> z-[-10]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> static
+  ✅ FloatingHelpButton        | RANDOM_LAYER_SWAP    | z-50 -> z-[100]
+  ✅ TooltipBottom             | POSITION_BREAK       | relative -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> relative
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> absolute
+  ✅ VideoPlayerControls       | POSITION_BREAK       | relative -> absolute
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> absolute
+  ✅ MobileBottomNav           | POSITION_BREAK       | relative -> static
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> static
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-20 -> z-40
+  ✅ StepIndicator             | RANDOM_LAYER_SWAP    | z-0 -> z-30
+  ✅ FullScreenLoader          | POSITION_BREAK       | fixed -> absolute
+  ✅ ProductCardHover          | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ ChatWindow                | POSITION_BREAK       | absolute -> static
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> relative
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_39.jsx
+
+--- Processing Batch 40 ---
+  ✅ MainModal                 | POSITION_BREAK       | absolute -> static
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> relative
+  ✅ UserMenuDropdown          | Z_INDEX_LOWER        | z-30 -> z-[-1]
+  ✅ FloatingHelpButton        | Z_INDEX_EXTREME      | z-50 -> z-[999]
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | Z_INDEX_LOWER        | z-10 -> z-[-1]
+  ✅ DashboardSidebar          | Z_INDEX_EXTREME      | z-30 -> z-[999]
+  ✅ VideoPlayerControls       | RANDOM_LAYER_SWAP    | z-20 -> z-[100]
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> absolute
+  ✅ MobileBottomNav           | POSITION_BREAK       | fixed -> absolute
+  ✅ SearchAutocomplete        | RANDOM_LAYER_SWAP    | z-50 -> z-[-1]
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | Z_INDEX_EXTREME      | z-40 -> z-[999]
+  ✅ StepIndicator             | RANDOM_LAYER_SWAP    | z-0 -> z-10
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> absolute
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | relative -> absolute
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_40.jsx
+
+--- Processing Batch 41 ---
+  ✅ MainModal                 | POSITION_BREAK       | fixed -> relative
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> absolute
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | Z_INDEX_EXTREME      | z-50 -> z-[999]
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> static
+  ✅ VideoPlayerControls       | POSITION_BREAK       | relative -> absolute
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> absolute
+  ✅ MobileBottomNav           | Z_INDEX_LOWER        | z-10 -> z-[-10]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> absolute
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> static
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-50 -> z-[-10]
+  ✅ StepIndicator             | POSITION_BREAK       | absolute -> static
+  ✅ FullScreenLoader          | POSITION_BREAK       | fixed -> static
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | relative -> absolute
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_41.jsx
+
+--- Processing Batch 42 ---
+  ✅ MainModal                 | Z_INDEX_EXTREME      | z-0 -> z-[100]
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> static
+  ✅ UserMenuDropdown          | Z_INDEX_LOWER        | z-30 -> z-0
+  ✅ FloatingHelpButton        | Z_INDEX_EXTREME      | z-50 -> z-[100]
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> relative
+  ✅ VideoPlayerControls       | Z_INDEX_EXTREME      | z-20 -> z-[999]
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | absolute -> static
+  ✅ MobileBottomNav           | Z_INDEX_LOWER        | z-40 -> z-[-10]
+  ✅ SearchAutocomplete        | RANDOM_LAYER_SWAP    | z-50 -> z-10
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> static
+  ✅ StepIndicator             | POSITION_BREAK       | absolute -> relative
+  ✅ FullScreenLoader          | POSITION_BREAK       | absolute -> static
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | RANDOM_LAYER_SWAP    | z-50 -> z-[-1]
+  ✅ MegaMenu                  | RANDOM_LAYER_SWAP    | z-30 -> z-20
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_42.jsx
+
+--- Processing Batch 43 ---
+  ✅ MainModal                 | RANDOM_LAYER_SWAP    | z-10 -> z-[1]
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> relative
+  ✅ UserMenuDropdown          | Z_INDEX_EXTREME      | z-30 -> z-[100]
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> relative
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | RANDOM_LAYER_SWAP    | z-10 -> z-[-10]
+  ✅ DashboardSidebar          | Z_INDEX_LOWER        | z-30 -> z-0
+  ✅ VideoPlayerControls       | RANDOM_LAYER_SWAP    | z-10 -> z-[100]
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> absolute
+  ✅ MobileBottomNav           | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> relative
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> static
+  ✅ StepIndicator             | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ FullScreenLoader          | RANDOM_LAYER_SWAP    | z-0 -> z-[999]
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | absolute -> relative
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_43.jsx
+
+--- Processing Batch 44 ---
+  ✅ MainModal                 | Z_INDEX_EXTREME      | z-50 -> z-[100]
+  ✅ GlobalNavbar              | Z_INDEX_LOWER        | z-40 -> z-0
+  ✅ UserMenuDropdown          | POSITION_BREAK       | relative -> absolute
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ DashboardSidebar          | RANDOM_LAYER_SWAP    | z-30 -> z-10
+  ✅ VideoPlayerControls       | Z_INDEX_EXTREME      | z-20 -> z-[100]
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> absolute
+  ✅ MobileBottomNav           | POSITION_BREAK       | fixed -> absolute
+  ✅ SearchAutocomplete        | RANDOM_LAYER_SWAP    | z-50 -> z-0
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | Z_INDEX_EXTREME      | z-20 -> z-[100]
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> absolute
+  ✅ FullScreenLoader          | RANDOM_LAYER_SWAP    | z-10 -> z-[5]
+  ✅ ProductCardHover          | Z_INDEX_EXTREME      | z-10 -> z-[100]
+  ✅ ChatWindow                | POSITION_BREAK       | relative -> static
+  ✅ MegaMenu                  | POSITION_BREAK       | relative -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_44.jsx
+
+--- Processing Batch 45 ---
+  ✅ MainModal                 | RANDOM_LAYER_SWAP    | z-10 -> z-30
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> relative
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> static
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> relative
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> relative
+  ✅ DashboardSidebar          | RANDOM_LAYER_SWAP    | z-30 -> z-[1]
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> static
+  ✅ PricingToggleOverlay      | RANDOM_LAYER_SWAP    | z-0 -> z-50
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> static
+  ✅ SearchAutocomplete        | Z_INDEX_EXTREME      | z-50 -> z-[100]
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> relative
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> absolute
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> static
+  ✅ FullScreenLoader          | RANDOM_LAYER_SWAP    | z-0 -> z-[999]
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> relative
+  ✅ ChatWindow                | POSITION_BREAK       | absolute -> static
+  ✅ MegaMenu                  | Z_INDEX_EXTREME      | z-30 -> z-[999]
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_45.jsx
+
+--- Processing Batch 46 ---
+  ✅ MainModal                 | Z_INDEX_EXTREME      | z-50 -> z-[100]
+  ✅ GlobalNavbar              | RANDOM_LAYER_SWAP    | z-40 -> z-[1]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> static
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> static
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> relative
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> static
+  ✅ VideoPlayerControls       | RANDOM_LAYER_SWAP    | z-10 -> z-[5]
+  ✅ PricingToggleOverlay      | RANDOM_LAYER_SWAP    | z-0 -> z-30
+  ✅ MobileBottomNav           | Z_INDEX_LOWER        | z-40 -> z-[-10]
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> relative
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> static
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> absolute
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> absolute
+  ✅ ProductCardHover          | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ ChatWindow                | POSITION_BREAK       | absolute -> relative
+  ✅ MegaMenu                  | RANDOM_LAYER_SWAP    | z-30 -> z-10
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_46.jsx
+
+--- Processing Batch 47 ---
+  ✅ MainModal                 | POSITION_BREAK       | relative -> static
+  ✅ GlobalNavbar              | Z_INDEX_EXTREME      | z-40 -> z-[999]
+  ✅ UserMenuDropdown          | RANDOM_LAYER_SWAP    | z-30 -> z-50
+  ✅ FloatingHelpButton        | Z_INDEX_LOWER        | z-50 -> z-0
+  ✅ TooltipBottom             | Z_INDEX_EXTREME      | z-30 -> z-[999]
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> absolute
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> relative
+  ✅ DashboardSidebar          | RANDOM_LAYER_SWAP    | z-30 -> z-20
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> relative
+  ✅ PricingToggleOverlay      | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> relative
+  ✅ SearchAutocomplete        | POSITION_BREAK       | absolute -> relative
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> static
+  ✅ StepIndicator             | POSITION_BREAK       | absolute -> relative
+  ✅ FullScreenLoader          | POSITION_BREAK       | relative -> absolute
+  ✅ ProductCardHover          | RANDOM_LAYER_SWAP    | z-20 -> z-[100]
+  ✅ ChatWindow                | RANDOM_LAYER_SWAP    | z-50 -> z-[1]
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> relative
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_47.jsx
+
+--- Processing Batch 48 ---
+  ✅ MainModal                 | RANDOM_LAYER_SWAP    | z-0 -> z-10
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> absolute
+  ✅ UserMenuDropdown          | RANDOM_LAYER_SWAP    | z-30 -> z-50
+  ✅ FloatingHelpButton        | POSITION_BREAK       | fixed -> absolute
+  ✅ TooltipBottom             | POSITION_BREAK       | relative -> absolute
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> relative
+  ✅ DashboardSidebar          | RANDOM_LAYER_SWAP    | z-30 -> z-40
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> static
+  ✅ PricingToggleOverlay      | RANDOM_LAYER_SWAP    | z-10 -> z-[5]
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> static
+  ✅ SearchAutocomplete        | Z_INDEX_LOWER        | z-50 -> z-[-10]
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> static
+  ✅ StepIndicator             | POSITION_BREAK       | relative -> absolute
+  ✅ FullScreenLoader          | Z_INDEX_EXTREME      | z-0 -> z-[999]
+  ✅ ProductCardHover          | Z_INDEX_EXTREME      | z-20 -> z-[999]
+  ✅ ChatWindow                | POSITION_BREAK       | absolute -> relative
+  ✅ MegaMenu                  | RANDOM_LAYER_SWAP    | z-30 -> z-0
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_48.jsx
+
+--- Processing Batch 49 ---
+  ✅ MainModal                 | POSITION_BREAK       | absolute -> relative
+  ✅ GlobalNavbar              | POSITION_BREAK       | sticky -> absolute
+  ✅ UserMenuDropdown          | POSITION_BREAK       | absolute -> relative
+  ✅ FloatingHelpButton        | Z_INDEX_LOWER        | z-50 -> z-0
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> static
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> static
+  ✅ ImageHeroWithBadge        | RANDOM_LAYER_SWAP    | z-10 -> z-[999]
+  ✅ DashboardSidebar          | POSITION_BREAK       | fixed -> relative
+  ✅ VideoPlayerControls       | POSITION_BREAK       | relative -> static
+  ✅ PricingToggleOverlay      | Z_INDEX_LOWER        | z-10 -> z-[-10]
+  ✅ MobileBottomNav           | Z_INDEX_LOWER        | z-40 -> z-[-10]
+  ✅ SearchAutocomplete        | Z_INDEX_EXTREME      | z-50 -> z-[100]
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | relative -> absolute
+  ✅ ProfileAvatarPile         | POSITION_BREAK       | relative -> absolute
+  ✅ StepIndicator             | Z_INDEX_LOWER        | z-10 -> z-0
+  ✅ FullScreenLoader          | POSITION_BREAK       | absolute -> relative
+  ✅ ProductCardHover          | POSITION_BREAK       | absolute -> static
+  ✅ ChatWindow                | POSITION_BREAK       | absolute -> static
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> relative
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_49.jsx
+
+--- Processing Batch 50 ---
+  ✅ MainModal                 | POSITION_BREAK       | fixed -> absolute
+  ✅ GlobalNavbar              | RANDOM_LAYER_SWAP    | z-40 -> z-[999]
+  ✅ UserMenuDropdown          | POSITION_BREAK       | relative -> static
+  ✅ FloatingHelpButton        | RANDOM_LAYER_SWAP    | z-50 -> z-0
+  ✅ TooltipBottom             | POSITION_BREAK       | absolute -> relative
+  ✅ NotificationToast         | POSITION_BREAK       | fixed -> relative
+  ✅ ImageHeroWithBadge        | POSITION_BREAK       | absolute -> relative
+  ✅ DashboardSidebar          | Z_INDEX_EXTREME      | z-30 -> z-[999]
+  ✅ VideoPlayerControls       | POSITION_BREAK       | absolute -> static
+  ✅ PricingToggleOverlay      | POSITION_BREAK       | relative -> static
+  ✅ MobileBottomNav           | POSITION_BREAK       | absolute -> relative
+  ✅ SearchAutocomplete        | POSITION_BREAK       | relative -> static
+  ✅ CookieConsentBanner       | POSITION_BREAK       | fixed -> absolute
+  ✅ RightClickMenu            | POSITION_BREAK       | absolute -> static
+  ✅ ProfileAvatarPile         | RANDOM_LAYER_SWAP    | z-50 -> z-20
+  ✅ StepIndicator             | POSITION_BREAK       | absolute -> relative
+  ✅ FullScreenLoader          | Z_INDEX_EXTREME      | z-10 -> z-[999]
+  ✅ ProductCardHover          | POSITION_BREAK       | relative -> static
+  ✅ ChatWindow                | POSITION_BREAK       | absolute -> static
+  ✅ MegaMenu                  | POSITION_BREAK       | absolute -> static
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/layering/Layering_Batch_50.jsx

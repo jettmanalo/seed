@@ -1,0 +1,89 @@
+M-S2C-Framework/
+├── data/                               # Root directory for all experimental data
+│   ├── 01_raw_seeds/                   # Clean, error-free baseline React + Tailwind components
+│   │   ├── 01_layering/                # Category 1: Components susceptible to z-index/positioning bugs
+│   │   │   ├── ModalOverlay.jsx        # Component 1
+│   │   │   ├── DropdownMenu.jsx        # Component 2
+│   │   │   ├── TooltipPopup.jsx        # Component 3
+│   │   │   └── ...
+│   │   ├── 02_layout/                  # Category 2: Components for Flexbox/Grid anomalies
+│   │   ├── 03_typography/              # Category 3: Components for Typographical errors
+│   │   ├── 04_spacing/                 # Category 4: Components for padding/margin errors
+│   │   ├── 05_visibility/              # Category 5: Components for opacity/contrast/display bugs
+│   ├── 02_mutated_code/                # The "Positive" code: Injected bugs for localization training
+│   │   ├── layering/                   # Categorized "broken" code for layering issues
+│   │   │   ├── Mut_L001_Modal.jsx      # Broken version of Component 1
+│   │   │   ├── Mut_L002_Modal.jsx      # Broken version of Component 1
+│   │   │   ├── Mut_L003_Modal.jsx      # Broken version of Component 1
+│   │   │   ├── Mut_L001_Drop.jsx       # Broken version of Component 2
+│   │   │   ├── Mut_L001_Tool.jsx       # Broken version of Component 3
+│   │   │   └── ...
+│   │   ├── layout/                     # Injected Flexbox/Grid failures
+│   │   ├── typography/                 # Injected font/style failures
+│   │   ├── spacing/                    # Injected padding/margin failures
+│   │   ├── visibility/                 # Injected contrast/opacity failures
+│   ├── 03_screenshots/                 # The "Anchor": Visual evidence of the UI defect
+│   │   ├── layering/                   # Visual captures of layering anomalies
+│   │   │   ├── Mut_L001_Modal.png      # Screenshot showing Component 1
+│   │   │   ├── Mut_L002_Modal.jsx      # Screenshot showing Component 1
+│   │   │   ├── Mut_L003_Modal.jsx      # Screenshot showing Component 1
+│   │   │   ├── Mut_L001_Drop.png       # Screenshot showing Component 2
+│   │   │   ├── Mut_L001_Tool.png       # Screenshot showing Component 3
+│   │   │   └── ...
+│   │   ├── layout/                     # Visuals of misaligned layouts
+│   │   ├── typography/                 # Visuals of font/text anomalies
+│   │   ├── spacing/                    # Visuals of spacing inconsistencies
+│   │   ├── visibility/                 # Visuals of visibility/contrast defects
+│   └── 04_ground_truth/                # Answer keys connecting image to AST node
+│       ├── layering/                   # Mapping data for layering samples
+│       │   ├── Mut_L001_Modal.json     # Describes the Modal bug's exact AST location (create 5 different tones for the bug description)
+│       │   ├── Mut_L002_Modal.jsx      # Describes the Modal bug's exact AST location (create 5 different tones for the bug description)
+│       │   ├── Mut_L003_Modal.jsx      # Describes the Modal bug's exact AST location (create 5 different tones for the bug description)
+│       │   ├── Mut_L001_Drop.json      # Metadata: Describes the Dropdown bug's exact AST location (create 5 different tones for the bug description)
+│       │   ├── Mut_L002_Tool.json      # Metadata: Describes the Tooltip bug's exact AST location (create 5 different tones for the bug description)
+│       │   └── ...
+│       ├── layout/                     # Answer keys for layout bugs
+│       ├── typography/                 # Answer keys for typography bugs
+│       ├── spacing/                    # Answer keys for spacing bugs
+│       ├── visibility/                 # Answer keys for visibility bugs
+├── src/                                # Directory for logic and automation scripts
+│   ├── generators/                     # Custom scripts to programmatically "break" the seeds
+│   │   ├── layering_mutator.py         # Automates injection of z-index/absolute bugs
+│   │   ├── layout_mutator.py           # Automates injection of Flex/Grid alignment bugs
+│   │   ├── typography_mutator.py       # Automates injection of typographical error bugs
+│   │   ├── spacing_mutator.py          # Automates injection of margin/padding bugs
+│   │   ├── visibility_mutator.py       # Automates injection of display/opacity bugs
+│   │   └── tone_generator.py           # Ollama script to generate 5 descriptions
+│   └── screenshotter/                  # The automated visual capture pipeline
+│       ├── renderer.py                 # Renders React code into a browser context for capture
+│       └── capture.py                  # Script to take normalized 224x224 screenshots
+└── requirements.txt                    # Project dependencies: tree-sitter, playwright, torch, ...
+
+
+────────────
+
+
+Setup:
+mkdir M-S2C-Framework && cd M-S2C-Framework
+
+mkdir -p data/01_raw_seeds/{layering,layout,typography,spacing,visibility}
+mkdir -p data/02_mutated_code/{layering,layout,typography,spacing,visibility}
+mkdir -p data/03_screenshots/{layering,layout,typography,spacing,visibility}
+mkdir -p data/04_ground_truth/{layering,layout,typography,spacing,visibility}
+
+mkdir -p src/generators src/screenshotter
+
+touch src/generators/{layering_mutator.py,layout_mutator.py,typography_mutator.py,spacing_mutator.py,visibility_mutator.py,tone_generator.py}
+touch src/screenshotter/{renderer.py,capture.py}
+touch requirements.txt
+
+
+────────────
+
+
+1. Seeds
+2. Mutate
+3. Render
+4. Capture
+5. Enrich
+6. Ollama

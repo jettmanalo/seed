@@ -1,0 +1,1151 @@
+🔍 Found 20 visibility components. Generating 50 batches...
+
+--- Processing Batch 01 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> inline
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> contents
+  ✅ CartNotificationDot  | LAYOUT_BREAK         | flex -> inline
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ LanguageSwitcher     | CONTRAST_DROP        | opacity-70 -> opacity-0
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> inline
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-20
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ EmailDraftTag        | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ InputErrorMessage    | STATE_FLIP           | visible -> invisible
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | block -> hidden
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> inline
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_01.jsx
+
+--- Processing Batch 02 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> inline
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | LAYOUT_BREAK         | flex -> contents
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> contents
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> contents
+  ✅ FileUploaderDropzone | FULL_FADE            | opacity-40 -> opacity-0
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | CONTRAST_DROP        | opacity-100 -> opacity-5
+  ✅ EmailDraftTag        | FULL_FADE            | opacity-60 -> opacity-0
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | hidden -> flex
+  ✅ InputErrorMessage    | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-0
+  ✅ StatusIndicatorPanel | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ FeatureComparisonCard | REVEAL_BUG           | hidden -> block
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_02.jsx
+
+--- Processing Batch 03 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> contents
+  ✅ AuthenticatedUserBadge | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | CONTRAST_DROP        | opacity-50 -> opacity-5
+  ✅ SkeletonLoaderCard   | FULL_FADE            | opacity-60 -> opacity-0
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> contents
+  ✅ CartNotificationDot  | LAYOUT_BREAK         | flex -> inline
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | REVEAL_BUG           | hidden -> block
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | CONTRAST_DROP        | opacity-60 -> opacity-0
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> contents
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | block -> hidden
+  ✅ ImageCaptionOverlay  | RANDOM_OPACITY_SWAP  | opacity-80 -> opacity-5
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> contents
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_03.jsx
+
+--- Processing Batch 04 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> contents
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | flex -> inline
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> inline
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> inline
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> inline
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | RANDOM_OPACITY_SWAP  | opacity-80 -> opacity-10
+  ✅ InputErrorMessage    | LAYOUT_BREAK         | flex -> inline
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_04.jsx
+
+--- Processing Batch 05 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | CONTRAST_DROP        | opacity-80 -> opacity-20
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> contents
+  ✅ CartNotificationDot  | LAYOUT_BREAK         | flex -> contents
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | FULL_FADE            | opacity-60 -> opacity-0
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> contents
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> contents
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | LAYOUT_BREAK         | flex -> contents
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | flex -> contents
+  ✅ InputErrorMessage    | FULL_FADE            | opacity-80 -> opacity-0
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> inline
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> inline
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_05.jsx
+
+--- Processing Batch 06 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> inline
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | CONTRAST_DROP        | opacity-100 -> opacity-0
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | flex -> inline
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | block -> hidden
+  ✅ CartNotificationDot  | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> inline
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> inline
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> inline
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | LAYOUT_BREAK         | flex -> inline
+  ✅ ImageCaptionOverlay  | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> inline
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_06.jsx
+
+--- Processing Batch 07 ---
+  ✅ ExpandableAccordion  | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | CONTRAST_DROP        | opacity-50 -> opacity-0
+  ✅ CartNotificationDot  | LAYOUT_BREAK         | flex -> inline
+  ✅ CookieBannerOverlay  | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ FileUploaderDropzone | CONTRAST_DROP        | opacity-100 -> opacity-5
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> inline
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-30
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | block -> hidden
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ NotificationBanner   | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-10
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_07.jsx
+
+--- Processing Batch 08 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | hidden -> flex
+  ✅ PasswordStrengthMeter | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> contents
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> contents
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> contents
+  ✅ PriceComparisonTable | LAYOUT_BREAK         | hidden -> flex
+  ✅ StatusTimeline       | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-20
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> inline
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ EmailDraftTag        | LAYOUT_BREAK         | flex -> contents
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | RANDOM_OPACITY_SWAP  | opacity-80 -> opacity-5
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | block -> hidden
+  ✅ FeatureComparisonCard | CONTRAST_DROP        | opacity-30 -> opacity-0
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> inline
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_08.jsx
+
+--- Processing Batch 09 ---
+  ✅ ExpandableAccordion  | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-25
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> inline
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> inline
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | flex -> contents
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-10
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | CONTRAST_DROP        | opacity-60 -> opacity-10
+  ✅ StatusTimeline       | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-10
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> contents
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> inline
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-20
+  ✅ InputErrorMessage    | LAYOUT_BREAK         | flex -> contents
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> contents
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_09.jsx
+
+--- Processing Batch 10 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> inline
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> inline
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | CONTRAST_DROP        | opacity-70 -> opacity-10
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> contents
+  ✅ CartNotificationDot  | STATE_FLIP           | visible -> invisible
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> contents
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> inline
+  ✅ HelpCenterCategories | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ EmailDraftTag        | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ ImageCaptionOverlay  | CONTRAST_DROP        | opacity-50 -> opacity-10
+  ✅ InputErrorMessage    | LAYOUT_BREAK         | flex -> inline
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_10.jsx
+
+--- Processing Batch 11 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> inline
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | flex -> inline
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | LAYOUT_BREAK         | grid -> inline
+  ✅ StatusTimeline       | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> contents
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | LAYOUT_BREAK         | block -> grid
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | block -> hidden
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | grid -> contents
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_11.jsx
+
+--- Processing Batch 12 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> inline
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> contents
+  ✅ MobileSlideOver      | CONTRAST_DROP        | opacity-50 -> opacity-0
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | flex -> contents
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> contents
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> inline
+  ✅ PriceComparisonTable | FULL_FADE            | opacity-60 -> opacity-0
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> inline
+  ✅ ModernTabGroup       | REVEAL_BUG           | hidden -> block
+  ✅ HelpCenterCategories | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ EmailDraftTag        | CONTRAST_DROP        | opacity-60 -> opacity-0
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ InputErrorMessage    | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | REVEAL_BUG           | hidden -> block
+  ✅ NotificationBanner   | RANDOM_OPACITY_SWAP  | opacity-80 -> opacity-5
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_12.jsx
+
+--- Processing Batch 13 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> inline
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> inline
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> inline
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ DisabledPrimaryButton | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> inline
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> inline
+  ✅ ModernTabGroup       | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-5
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> inline
+  ✅ EmailDraftTag        | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | STATE_FLIP           | visible -> invisible
+  ✅ StatusIndicatorPanel | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ FeatureComparisonCard | CONTRAST_DROP        | opacity-100 -> opacity-0
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_13.jsx
+
+--- Processing Batch 14 ---
+  ✅ ExpandableAccordion  | REVEAL_BUG           | hidden -> block
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> inline
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> contents
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> contents
+  ✅ CartNotificationDot  | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | LAYOUT_BREAK         | flex -> inline
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> contents
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | REVEAL_BUG           | hidden -> block
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | LAYOUT_BREAK         | flex -> inline
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | flex -> contents
+  ✅ InputErrorMessage    | CONTRAST_DROP        | opacity-100 -> opacity-10
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> inline
+  ✅ FeatureComparisonCard | CONTRAST_DROP        | opacity-100 -> opacity-10
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_14.jsx
+
+--- Processing Batch 15 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | CONTRAST_DROP        | opacity-100 -> opacity-0
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> inline
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | flex -> inline
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ CookieBannerOverlay  | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-10
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | grid -> contents
+  ✅ EmailDraftTag        | CONTRAST_DROP        | opacity-100 -> opacity-10
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | block -> hidden
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> inline
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_15.jsx
+
+--- Processing Batch 16 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ AuthenticatedUserBadge | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-30
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | flex -> inline
+  ✅ SkeletonLoaderCard   | CONTRAST_DROP        | opacity-60 -> opacity-5
+  ✅ DisabledPrimaryButton | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | CONTRAST_DROP        | opacity-50 -> opacity-5
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> inline
+  ✅ PriceComparisonTable | REVEAL_BUG           | hidden -> block
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> contents
+  ✅ FileUploaderDropzone | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-30
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | CONTRAST_DROP        | opacity-70 -> opacity-10
+  ✅ EmailDraftTag        | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | flex -> contents
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> contents
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_16.jsx
+
+--- Processing Batch 17 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> inline
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ SkeletonLoaderCard   | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> contents
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-10
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> contents
+  ✅ PriceComparisonTable | REVEAL_BUG           | hidden -> block
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> contents
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | hidden -> flex
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ EmailDraftTag        | LAYOUT_BREAK         | flex -> contents
+  ✅ ImageCaptionOverlay  | CONTRAST_DROP        | opacity-30 -> opacity-5
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> contents
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_17.jsx
+
+--- Processing Batch 18 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | flex -> inline
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | grid -> contents
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> contents
+  ✅ CartNotificationDot  | LAYOUT_BREAK         | flex -> inline
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> inline
+  ✅ EmailDraftTag        | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | block -> hidden
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | block -> inline-block
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> inline
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_18.jsx
+
+--- Processing Batch 19 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | block -> hidden
+  ✅ AuthenticatedUserBadge | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> contents
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | flex -> contents
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | STATE_FLIP           | visible -> invisible
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> contents
+  ✅ PriceComparisonTable | FULL_FADE            | opacity-60 -> opacity-0
+  ✅ StatusTimeline       | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-25
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ InputErrorMessage    | STATE_FLIP           | visible -> invisible
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> contents
+  ✅ FeatureComparisonCard | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_19.jsx
+
+--- Processing Batch 20 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | block -> hidden
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> contents
+  ✅ PasswordStrengthMeter | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | flex -> contents
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | grid -> contents
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | LAYOUT_BREAK         | flex -> contents
+  ✅ CookieBannerOverlay  | CONTRAST_DROP        | opacity-100 -> opacity-5
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> contents
+  ✅ PriceComparisonTable | CONTRAST_DROP        | opacity-100 -> opacity-10
+  ✅ StatusTimeline       | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-0
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> inline
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | flex -> contents
+  ✅ InputErrorMessage    | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> contents
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> contents
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_20.jsx
+
+--- Processing Batch 21 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> contents
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ MobileSlideOver      | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ SkeletonLoaderCard   | CONTRAST_DROP        | opacity-70 -> opacity-0
+  ✅ DisabledPrimaryButton | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ CartNotificationDot  | FORCE_HIDDEN         | visible -> hidden
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ PriceComparisonTable | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> inline
+  ✅ EmailDraftTag        | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> contents
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> inline
+  ✅ NotificationBanner   | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-25
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_21.jsx
+
+--- Processing Batch 22 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | flex -> inline
+  ✅ DisabledPrimaryButton | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ CartNotificationDot  | LAYOUT_BREAK         | flex -> contents
+  ✅ CookieBannerOverlay  | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-30
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusTimeline       | CONTRAST_DROP        | opacity-30 -> opacity-10
+  ✅ FileUploaderDropzone | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-5
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> contents
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> inline
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_22.jsx
+
+--- Processing Batch 23 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> contents
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | hidden -> flex
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | flex -> contents
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | block -> hidden
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> inline
+  ✅ PriceComparisonTable | LAYOUT_BREAK         | flex -> inline
+  ✅ StatusTimeline       | CONTRAST_DROP        | opacity-100 -> opacity-0
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> contents
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> inline
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | CONTRAST_DROP        | opacity-70 -> opacity-5
+  ✅ ImageCaptionOverlay  | RANDOM_OPACITY_SWAP  | opacity-80 -> opacity-0
+  ✅ InputErrorMessage    | CONTRAST_DROP        | opacity-100 -> opacity-10
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> contents
+  ✅ FeatureComparisonCard | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ NotificationBanner   | FULL_FADE            | opacity-100 -> opacity-0
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_23.jsx
+
+--- Processing Batch 24 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | block -> hidden
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> inline
+  ✅ CartNotificationDot  | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> contents
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusTimeline       | REVEAL_BUG           | hidden -> block
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> inline
+  ✅ ModernTabGroup       | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-25
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ ImageCaptionOverlay  | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-30
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> contents
+  ✅ FeatureComparisonCard | CONTRAST_DROP        | opacity-100 -> opacity-0
+  ✅ NotificationBanner   | CONTRAST_DROP        | opacity-100 -> opacity-5
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_24.jsx
+
+--- Processing Batch 25 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | FULL_FADE            | opacity-40 -> opacity-0
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> inline
+  ✅ EmailDraftTag        | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | FORCE_HIDDEN         | visible -> hidden
+  ✅ StatusIndicatorPanel | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-5
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> inline
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_25.jsx
+
+--- Processing Batch 26 ---
+  ✅ ExpandableAccordion  | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-0
+  ✅ AuthenticatedUserBadge | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> inline
+  ✅ MobileSlideOver      | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ SkeletonLoaderCard   | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | STATE_FLIP           | visible -> invisible
+  ✅ CookieBannerOverlay  | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | LAYOUT_BREAK         | grid -> inline
+  ✅ StatusTimeline       | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> inline
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | block -> hidden
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | STATE_FLIP           | visible -> invisible
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> contents
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> inline
+  ✅ NotificationBanner   | CONTRAST_DROP        | opacity-80 -> opacity-20
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_26.jsx
+
+--- Processing Batch 27 ---
+  ✅ ExpandableAccordion  | REVEAL_BUG           | hidden -> block
+  ✅ AuthenticatedUserBadge | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> contents
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | flex -> inline
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ CartNotificationDot  | CONTRAST_DROP        | opacity-100 -> opacity-5
+  ✅ CookieBannerOverlay  | CONTRAST_DROP        | opacity-50 -> opacity-5
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> inline
+  ✅ PriceComparisonTable | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-0
+  ✅ StatusTimeline       | CONTRAST_DROP        | opacity-100 -> opacity-10
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | CONTRAST_DROP        | opacity-100 -> opacity-5
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> contents
+  ✅ EmailDraftTag        | CONTRAST_DROP        | opacity-70 -> opacity-0
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | block -> hidden
+  ✅ StatusIndicatorPanel | CONTRAST_DROP        | opacity-30 -> opacity-0
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> contents
+  ✅ NotificationBanner   | FULL_FADE            | opacity-80 -> opacity-0
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_27.jsx
+
+--- Processing Batch 28 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | FULL_FADE            | opacity-40 -> opacity-0
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | grid -> contents
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | block -> hidden
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | LAYOUT_BREAK         | flex -> inline
+  ✅ StatusTimeline       | CONTRAST_DROP        | opacity-100 -> opacity-10
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ EmailDraftTag        | LAYOUT_BREAK         | flex -> contents
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_28.jsx
+
+--- Processing Batch 29 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> inline
+  ✅ PasswordStrengthMeter | CONTRAST_DROP        | opacity-70 -> opacity-5
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | flex -> inline
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ FileUploaderDropzone | CONTRAST_DROP        | opacity-40 -> opacity-5
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ EmailDraftTag        | CONTRAST_DROP        | opacity-60 -> opacity-10
+  ✅ ImageCaptionOverlay  | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-25
+  ✅ InputErrorMessage    | STATE_FLIP           | visible -> invisible
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | block -> hidden
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> inline
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_29.jsx
+
+--- Processing Batch 30 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> contents
+  ✅ AuthenticatedUserBadge | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ PasswordStrengthMeter | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | flex -> inline
+  ✅ DisabledPrimaryButton | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | hidden -> flex
+  ✅ LanguageSwitcher     | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-20
+  ✅ PriceComparisonTable | FULL_FADE            | opacity-60 -> opacity-0
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-20
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> inline
+  ✅ EmailDraftTag        | CONTRAST_DROP        | opacity-100 -> opacity-0
+  ✅ ImageCaptionOverlay  | RANDOM_OPACITY_SWAP  | opacity-80 -> opacity-0
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> contents
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_30.jsx
+
+--- Processing Batch 31 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> contents
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> contents
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | FULL_FADE            | opacity-80 -> opacity-0
+  ✅ SkeletonLoaderCard   | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | FORCE_HIDDEN         | visible -> hidden
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> contents
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> contents
+  ✅ FileUploaderDropzone | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> inline
+  ✅ EmailDraftTag        | FULL_FADE            | opacity-60 -> opacity-0
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> inline
+  ✅ NotificationBanner   | CONTRAST_DROP        | opacity-80 -> opacity-5
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_31.jsx
+
+--- Processing Batch 32 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | block -> hidden
+  ✅ AuthenticatedUserBadge | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-20
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | flex -> inline
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | flex -> inline
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> contents
+  ✅ PriceComparisonTable | CONTRAST_DROP        | opacity-100 -> opacity-5
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | hidden -> flex
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | RANDOM_OPACITY_SWAP  | opacity-80 -> opacity-0
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | block -> hidden
+  ✅ StatusIndicatorPanel | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ FeatureComparisonCard | CONTRAST_DROP        | opacity-100 -> opacity-10
+  ✅ NotificationBanner   | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-0
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_32.jsx
+
+--- Processing Batch 33 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> contents
+  ✅ PasswordStrengthMeter | CONTRAST_DROP        | opacity-70 -> opacity-5
+  ✅ MobileSlideOver      | CONTRAST_DROP        | opacity-80 -> opacity-10
+  ✅ SkeletonLoaderCard   | CONTRAST_DROP        | opacity-60 -> opacity-10
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | REVEAL_BUG           | hidden -> block
+  ✅ LanguageSwitcher     | FULL_FADE            | opacity-80 -> opacity-0
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ EmailDraftTag        | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> inline
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_33.jsx
+
+--- Processing Batch 34 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | block -> inline
+  ✅ AuthenticatedUserBadge | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-30
+  ✅ PasswordStrengthMeter | CONTRAST_DROP        | opacity-100 -> opacity-5
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | hidden -> flex
+  ✅ SkeletonLoaderCard   | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ DisabledPrimaryButton | CONTRAST_DROP        | opacity-70 -> opacity-20
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> inline
+  ✅ FileUploaderDropzone | CONTRAST_DROP        | opacity-60 -> opacity-20
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> inline
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> inline
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | block -> hidden
+  ✅ ImageCaptionOverlay  | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_34.jsx
+
+--- Processing Batch 35 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | CONTRAST_DROP        | opacity-30 -> opacity-0
+  ✅ MobileSlideOver      | REVEAL_BUG           | hidden -> block
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | block -> hidden
+  ✅ CartNotificationDot  | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> inline
+  ✅ PriceComparisonTable | LAYOUT_BREAK         | flex -> contents
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> contents
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | hidden -> flex
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ EmailDraftTag        | CONTRAST_DROP        | opacity-100 -> opacity-5
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | LAYOUT_BREAK         | flex -> inline
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_35.jsx
+
+--- Processing Batch 36 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> inline
+  ✅ AuthenticatedUserBadge | REVEAL_BUG           | hidden -> block
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> inline
+  ✅ MobileSlideOver      | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> inline
+  ✅ CartNotificationDot  | STATE_FLIP           | visible -> invisible
+  ✅ CookieBannerOverlay  | RANDOM_OPACITY_SWAP  | opacity-80 -> opacity-5
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | REVEAL_BUG           | hidden -> block
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> contents
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> contents
+  ✅ ModernTabGroup       | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-20
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> contents
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_36.jsx
+
+--- Processing Batch 37 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> contents
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> contents
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | CONTRAST_DROP        | opacity-60 -> opacity-5
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | FORCE_HIDDEN         | visible -> hidden
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ LanguageSwitcher     | RANDOM_OPACITY_SWAP  | opacity-80 -> opacity-0
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> contents
+  ✅ FileUploaderDropzone | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ ModernTabGroup       | CONTRAST_DROP        | opacity-100 -> opacity-5
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ StatusIndicatorPanel | REVEAL_BUG           | hidden -> block
+  ✅ FeatureComparisonCard | CONTRAST_DROP        | opacity-30 -> opacity-10
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_37.jsx
+
+--- Processing Batch 38 ---
+  ✅ ExpandableAccordion  | REVEAL_BUG           | hidden -> block
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | block -> hidden
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | FULL_FADE            | opacity-80 -> opacity-0
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | CONTRAST_DROP        | opacity-100 -> opacity-10
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> contents
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | FORCE_HIDDEN         | visible -> hidden
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | block -> hidden
+  ✅ FeatureComparisonCard | CONTRAST_DROP        | opacity-30 -> opacity-5
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> inline
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_38.jsx
+
+--- Processing Batch 39 ---
+  ✅ ExpandableAccordion  | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> inline
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> inline
+  ✅ MobileSlideOver      | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> contents
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> inline
+  ✅ PriceComparisonTable | LAYOUT_BREAK         | grid -> contents
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> contents
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | REVEAL_BUG           | hidden -> block
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | LAYOUT_BREAK         | flex -> contents
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | flex -> contents
+  ✅ InputErrorMessage    | LAYOUT_BREAK         | flex -> inline
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-5
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_39.jsx
+
+--- Processing Batch 40 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> inline
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | FORCE_HIDDEN         | visible -> hidden
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | REVEAL_BUG           | hidden -> block
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | LAYOUT_BREAK         | hidden -> flex
+  ✅ FileUploaderDropzone | FULL_FADE            | opacity-40 -> opacity-0
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> inline
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | hidden -> flex
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_40.jsx
+
+--- Processing Batch 41 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | CONTRAST_DROP        | opacity-100 -> opacity-10
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | flex -> inline
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> inline
+  ✅ CartNotificationDot  | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ CookieBannerOverlay  | RANDOM_OPACITY_SWAP  | opacity-80 -> opacity-5
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> inline
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | LAYOUT_BREAK         | flex -> inline
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | grid -> inline
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_41.jsx
+
+--- Processing Batch 42 ---
+  ✅ ExpandableAccordion  | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-5
+  ✅ AuthenticatedUserBadge | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | REVEAL_BUG           | hidden -> block
+  ✅ SkeletonLoaderCard   | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | CONTRAST_DROP        | opacity-70 -> opacity-20
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | REVEAL_BUG           | hidden -> block
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> inline
+  ✅ FileUploaderDropzone | FULL_FADE            | opacity-70 -> opacity-0
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | CONTRAST_DROP        | opacity-70 -> opacity-0
+  ✅ EmailDraftTag        | LAYOUT_BREAK         | flex -> contents
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | REVEAL_BUG           | hidden -> block
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_42.jsx
+
+--- Processing Batch 43 ---
+  ✅ ExpandableAccordion  | REVEAL_BUG           | hidden -> block
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | flex -> inline
+  ✅ SkeletonLoaderCard   | FULL_FADE            | opacity-40 -> opacity-0
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | FULL_FADE            | opacity-40 -> opacity-0
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> inline
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_43.jsx
+
+--- Processing Batch 44 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> inline
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> contents
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ LanguageSwitcher     | LAYOUT_BREAK         | flex -> inline
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> inline
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> contents
+  ✅ HelpCenterCategories | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | flex -> contents
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> inline
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | grid -> inline
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> inline
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_44.jsx
+
+--- Processing Batch 45 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> inline
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | CONTRAST_DROP        | opacity-40 -> opacity-10
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> contents
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | LAYOUT_BREAK         | flex -> contents
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> contents
+  ✅ ModernTabGroup       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> contents
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> contents
+  ✅ NotificationBanner   | SUDDEN_HIDDEN        | flex -> hidden
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_45.jsx
+
+--- Processing Batch 46 ---
+  ✅ ExpandableAccordion  | CONTRAST_DROP        | opacity-100 -> opacity-5
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> contents
+  ✅ PasswordStrengthMeter | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ MobileSlideOver      | LAYOUT_BREAK         | flex -> contents
+  ✅ SkeletonLoaderCard   | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | LAYOUT_BREAK         | flex -> inline
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | REVEAL_BUG           | hidden -> block
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | CONTRAST_DROP        | opacity-70 -> opacity-0
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | hidden -> flex
+  ✅ HelpCenterCategories | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ EmailDraftTag        | LAYOUT_BREAK         | flex -> inline
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | flex -> inline
+  ✅ InputErrorMessage    | CONTRAST_DROP        | opacity-80 -> opacity-5
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | hidden -> flex
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | grid -> contents
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_46.jsx
+
+--- Processing Batch 47 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> contents
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | flex -> contents
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> contents
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | flex -> contents
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> inline
+  ✅ CartNotificationDot  | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ CookieBannerOverlay  | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ LanguageSwitcher     | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> inline
+  ✅ EmailDraftTag        | CONTRAST_DROP        | opacity-100 -> opacity-0
+  ✅ ImageCaptionOverlay  | CONTRAST_DROP        | opacity-50 -> opacity-10
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | LAYOUT_BREAK         | flex -> contents
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> inline
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_47.jsx
+
+--- Processing Batch 48 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> inline
+  ✅ AuthenticatedUserBadge | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-25
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> inline
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | flex -> inline
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> inline
+  ✅ CartNotificationDot  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CookieBannerOverlay  | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PriceComparisonTable | FULL_FADE            | opacity-100 -> opacity-0
+  ✅ StatusTimeline       | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FileUploaderDropzone | LAYOUT_BREAK         | flex -> inline
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | hidden -> inline-block
+  ✅ HelpCenterCategories | CONTRAST_DROP        | opacity-100 -> opacity-5
+  ✅ EmailDraftTag        | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-30
+  ✅ ImageCaptionOverlay  | LAYOUT_BREAK         | flex -> contents
+  ✅ InputErrorMessage    | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ StatusIndicatorPanel | CONTRAST_DROP        | opacity-100 -> opacity-10
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> contents
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_48.jsx
+
+--- Processing Batch 49 ---
+  ✅ ExpandableAccordion  | LAYOUT_BREAK         | flex -> contents
+  ✅ AuthenticatedUserBadge | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ PasswordStrengthMeter | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | LAYOUT_BREAK         | flex -> contents
+  ✅ DisabledPrimaryButton | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ CartNotificationDot  | RANDOM_OPACITY_SWAP  | opacity-70 -> opacity-0
+  ✅ CookieBannerOverlay  | CONTRAST_DROP        | opacity-100 -> opacity-20
+  ✅ LanguageSwitcher     | RANDOM_OPACITY_SWAP  | opacity-100 -> opacity-20
+  ✅ PriceComparisonTable | SUDDEN_HIDDEN        | grid -> hidden
+  ✅ StatusTimeline       | LAYOUT_BREAK         | flex -> inline
+  ✅ FileUploaderDropzone | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ModernTabGroup       | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | flex -> contents
+  ✅ EmailDraftTag        | LAYOUT_BREAK         | flex -> inline
+  ✅ ImageCaptionOverlay  | FULL_FADE            | opacity-50 -> opacity-0
+  ✅ InputErrorMessage    | LAYOUT_BREAK         | flex -> contents
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | LAYOUT_BREAK         | flex -> contents
+  ✅ NotificationBanner   | RANDOM_OPACITY_SWAP  | opacity-80 -> opacity-10
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_49.jsx
+
+--- Processing Batch 50 ---
+  ✅ ExpandableAccordion  | SUDDEN_HIDDEN        | block -> hidden
+  ✅ AuthenticatedUserBadge | LAYOUT_BREAK         | block -> grid
+  ✅ PasswordStrengthMeter | LAYOUT_BREAK         | flex -> contents
+  ✅ MobileSlideOver      | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ SkeletonLoaderCard   | FULL_FADE            | opacity-30 -> opacity-0
+  ✅ DisabledPrimaryButton | LAYOUT_BREAK         | flex -> inline
+  ✅ CartNotificationDot  | LAYOUT_BREAK         | flex -> contents
+  ✅ CookieBannerOverlay  | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ LanguageSwitcher     | SUDDEN_HIDDEN        | block -> hidden
+  ✅ PriceComparisonTable | LAYOUT_BREAK         | flex -> inline
+  ✅ StatusTimeline       | REVEAL_BUG           | hidden -> block
+  ✅ FileUploaderDropzone | FULL_FADE            | opacity-40 -> opacity-0
+  ✅ ModernTabGroup       | LAYOUT_BREAK         | flex -> inline
+  ✅ HelpCenterCategories | LAYOUT_BREAK         | grid -> contents
+  ✅ EmailDraftTag        | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ ImageCaptionOverlay  | RANDOM_OPACITY_SWAP  | opacity-80 -> opacity-5
+  ✅ InputErrorMessage    | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ StatusIndicatorPanel | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ FeatureComparisonCard | SUDDEN_HIDDEN        | flex -> hidden
+  ✅ NotificationBanner   | LAYOUT_BREAK         | flex -> inline
+💾 Saved to: /Users/jettmarkmanalo/Desktop/M-S2C-Framework/data/02_mutated_code/visibility/Visibility_Batch_50.jsx
