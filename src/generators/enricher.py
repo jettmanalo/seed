@@ -5,7 +5,7 @@ import random
 
 # --- CONFIGURATION ---
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-MANIFEST_PATH = os.path.join(BASE_DIR, "data", "layering_v1.json")
+MANIFEST_PATH = os.path.join(BASE_DIR, "data", "temp.json")
 SEED_DIR = os.path.join(BASE_DIR, "data", "01_raw_seeds")
 MUTATED_DIR = os.path.join(BASE_DIR, "data", "02_mutated_code")
 
@@ -65,9 +65,12 @@ def enrich_manifest():
         except ValueError:
             continue
 
-        seed_path = os.path.join(SEED_DIR, f"{category}.jsx")
-        mut_file_name = f"Layering_Batch_{batch}.jsx"
-        mutated_path = os.path.join(MUTATED_DIR, category, mut_file_name)
+        # seed_path = os.path.join(SEED_DIR, f"{category}.jsx")
+        seed_path = os.path.join(SEED_DIR, f"temp.jsx")
+        mut_file_name = f"Visibility_Batch_01.jsx"
+        # mut_file_name = f"Visibility_Batch_{batch}.jsx"
+        mutated_path = os.path.join(MUTATED_DIR, mut_file_name)
+        # mutated_path = os.path.join(MUTATED_DIR, category, mut_file_name)
 
         if not os.path.exists(mutated_path) or not os.path.exists(seed_path):
             continue

@@ -5,17 +5,31 @@ from playwright.async_api import async_playwright
 from PIL import Image
 
 # --- CONFIGURATION ---
-CATEGORY = "layering"
-NUM_BATCHES = 50
-# LAYERING
+CATEGORY = "visibility"
+# CATEGORY = "layering"
+NUM_BATCHES = 1
 COMPONENT_NAMES = [
-    "DashboardSidebarOverlay", "StaticModalScenario", "NavBarDropdownOpen", "NotificationStackPanel",
-    "PremiumFeatureLockout",
-    "CardBadgeStack", "StickyHeaderMockTable", "ImageCaptionOverlayPanel", "ContextualMenuOpen", "AvatarGroupOverlap",
-    "FloatingHelpCenter", "MultiLayeredBreadcrumb", "SidebarSubmenuOpen", "CommandPaletteOverlay",
-    "ShoppingBagSlideOut",
-    "VideoControlsOverlay", "AnnotatedGraph", "UserStatusCardStack", "LockedFileOverlay", "CookieConsentedPopup"
+    "StatusDashboardPanel", "StatusDashboardPanel2", "StatusDashboardPanel3", "StatusDashboardPanel4", "StatusDashboardPanel5",
+    "StatusDashboardPanel6", "StatusDashboardPanel7", "StatusDashboardPanel8", "StatusDashboardPanel9", "StatusDashboardPanel10",
+    "StatusDashboardPanel11", "StatusDashboardPanel12", "StatusDashboardPanel13", "StatusDashboardPanel14", "StatusDashboardPanel15",
+    "StatusDashboardPanel16", "StatusDashboardPanel17", "StatusDashboardPanel18", "StatusDashboardPanel19", "StatusDashboardPanel20",
+    "StatusDashboardPanel21", "StatusDashboardPanel22", "StatusDashboardPanel23", "StatusDashboardPanel24", "StatusDashboardPanel25",
+    "StatusDashboardPanel26", "StatusDashboardPanel27", "StatusDashboardPanel28", "StatusDashboardPanel29", "StatusDashboardPanel30",
+    "StatusDashboardPanel31", "StatusDashboardPanel32", "StatusDashboardPanel33", "StatusDashboardPanel34", "StatusDashboardPanel35",
+    "StatusDashboardPanel36", "StatusDashboardPanel37", "StatusDashboardPanel38", "StatusDashboardPanel39", "StatusDashboardPanel40",
+    "StatusDashboardPanel41", "StatusDashboardPanel42", "StatusDashboardPanel43", "StatusDashboardPanel44", "StatusDashboardPanel45",
+    "StatusDashboardPanel46", "StatusDashboardPanel47", "StatusDashboardPanel48", "StatusDashboardPanel49", "StatusDashboardPanel50"
 ]
+# COMPONENT_NAMES = ["AvatarGroupOverlap"]
+# LAYERING
+# COMPONENT_NAMES = [
+#     "DashboardSidebarOverlay", "StaticModalScenario", "NavBarDropdownOpen", "NotificationStackPanel",
+#     "PremiumFeatureLockout",
+#     "CardBadgeStack", "StickyHeaderMockTable", "ImageCaptionOverlayPanel", "ContextualMenuOpen", "AvatarGroupOverlap",
+#     "FloatingHelpCenter", "MultiLayeredBreadcrumb", "SidebarSubmenuOpen", "CommandPaletteOverlay",
+#     "ShoppingBagSlideOut",
+#     "VideoControlsOverlay", "AnnotatedGraph", "UserStatusCardStack", "LockedFileOverlay", "CookieConsentedPopup"
+# ]
 # LAYOUT
 # COMPONENT_NAMES = [
 #     "FeatureGridFour", "ServicePricingTable", "TeamMemberGallery", "HorizontalMetricBar", "MultiStepProcess",
@@ -48,8 +62,10 @@ COMPONENT_NAMES = [
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 # IMG_OUT_DIR = os.path.join(BASE_DIR, "data", "01_raw_seeds", CATEGORY)
-IMG_OUT_DIR = os.path.join(BASE_DIR, "data", "03_screenshots", CATEGORY)
-MANIFEST_PATH = os.path.join(BASE_DIR, "data", f"{CATEGORY}_v1.json")
+# IMG_OUT_DIR = os.path.join(BASE_DIR, "data", "03_screenshots", CATEGORY)
+IMG_OUT_DIR = os.path.join(BASE_DIR, "data", "03_screenshots", "temp")
+MANIFEST_PATH = os.path.join(BASE_DIR, "data", f"temp.json")
+# MANIFEST_PATH = os.path.join(BASE_DIR, "data", f"temp_{CATEGORY}.json")
 os.makedirs(IMG_OUT_DIR, exist_ok=True)
 
 

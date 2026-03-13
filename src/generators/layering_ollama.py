@@ -8,7 +8,7 @@ import re
 # --- CONFIGURATION ---
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 # Target the layering manifest specifically
-MANIFEST_PATH = os.path.join(BASE_DIR, "data", "layering_v1.json")
+MANIFEST_PATH = os.path.join(BASE_DIR, "data", "temp_layering.json")
 IMAGE_DIR = os.path.join(BASE_DIR, "data", "03_screenshots")
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL = "llava"

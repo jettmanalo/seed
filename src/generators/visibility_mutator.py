@@ -180,9 +180,11 @@ def mutate_visibility_batch(input_file, output_dir, num_files=25):
 if __name__ == "__main__":
     # Base directory and path setup
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    SEED_PATH = os.path.join(BASE_DIR, "data", "01_raw_seeds", "visibility.jsx")
-    OUT_DIR = os.path.join(BASE_DIR, "data", "02_mutated_code", "visibility")
+    # SEED_PATH = os.path.join(BASE_DIR, "data", "01_raw_seeds", "visibility.jsx")
+    SEED_PATH = os.path.join(BASE_DIR, "data", "01_raw_seeds", "temp.jsx")
+    OUT_DIR = os.path.join(BASE_DIR, "data", "02_mutated_code")
+    # OUT_DIR = os.path.join(BASE_DIR, "data", "02_mutated_code", "visibility")
 
     os.makedirs(OUT_DIR, exist_ok=True)
     # Generate 25 batches as requested
-    mutate_visibility_batch(SEED_PATH, OUT_DIR, num_files=50)
+    mutate_visibility_batch(SEED_PATH, OUT_DIR, num_files=1)
